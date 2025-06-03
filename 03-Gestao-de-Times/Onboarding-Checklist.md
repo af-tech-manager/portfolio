@@ -1,5 +1,5 @@
 # 👋 Onboarding em Times de Tecnologia: Checklist por Papel para Integração Rápida e Eficiente
-Por: [ Alan Fernandes - Tech Manager ]
+Por: [ Alan Fernandes - Tech Manager ] :house: [Voltar para home](https://github.com/af-tech-manager/portfolio/blob/main/README.md)
 
 ## Introdução
 A qualidade do onboarding influencia diretamente a produtividade, o engajamento e a retenção de talentos. Em times de tecnologia, onde o ambiente é dinâmico e os papéis são técnicos e estratégicos, um onboarding bem estruturado acelera a adaptação e reduz erros iniciais.
@@ -124,3 +124,6 @@ Conta nos sistemas de analytics, CRM e feedbacks (ex: Mixpanel, Hotjar)
 Um bom onboarding é o primeiro passo para construir um time coeso e de alta performance. Cada papel tem particularidades que exigem acesso, orientação e alinhamento diferentes e um checklist bem definido ajuda a garantir que nada crítico seja esquecido.\
 \
 Ao transformar o onboarding em um processo estratégico, as empresas reduzem o tempo de ramp-up, fortalecem a cultura e aumentam a entrega de valor.
+
+---
+:house: [Voltar para home](https://github.com/af-tech-manager/portfolio/blob/main/README.md)
