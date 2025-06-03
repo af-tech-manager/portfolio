@@ -1,6 +1,6 @@
 # 🎯 Definindo OKRs Organizacionais em Times de Tecnologia
 
-Por: [ Alan Fernandes - Tech Manager ]
+Por: [ Alan Fernandes - Tech Manager ] :house: [Voltar para home](https://github.com/af-tech-manager/portfolio/blob/main/README.md)
 
 ## Introdução
 
@@ -76,4 +76,8 @@ Recomenda-se no máximo 3 objetivos por trimestre, com até 3 KRs por objetivo. 
 Os OKRs são mais do que uma ferramenta de gestão: são um mecanismo para criar alinhamento, responsabilidade e motivação dentro dos times técnicos. \
 \
 Quando bem implementados, ajudam a transformar a área de Tecnologia em um agente estratégico da organização.
+
+---
+:house: [Voltar para home](https://github.com/af-tech-manager/portfolio/blob/main/README.md)
+
 
