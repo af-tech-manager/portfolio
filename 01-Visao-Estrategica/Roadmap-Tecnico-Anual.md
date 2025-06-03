@@ -1,6 +1,6 @@
 # 🛣️ Roadmap Técnico Anual: Entregas Previstas e Marcos por Área Técnica
 
-Por: [ Alan Fernandes - Tech Manager ]
+Por: [ Alan Fernandes - Tech Manager ] :house: [Voltar para home](https://github.com/af-tech-manager/portfolio/blob/main/README.md)
 
 ## Introdução
 
@@ -100,4 +100,7 @@ Um **roadmap técnico anual** é um plano visual que descreve:
 O Roadmap Técnico Anual não é um documento fixo, mas um **instrumento vivo** que orienta decisões, priorizações e investimentos. Ele ajuda os times técnicos a enxergarem o todo, contribuindo para um planejamento transparente, colaborativo e orientado a resultados reais.\
 \
 Quando bem estruturado, o roadmap transforma a operação de tecnologia em uma **máquina estratégica de entrega de valor**.
+
+---
+:house: [Voltar para home](https://github.com/af-tech-manager/portfolio/blob/main/README.md)
 
