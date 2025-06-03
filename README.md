@@ -12,12 +12,13 @@ Perfil no LinkedIn: https://www.linkedin.com/in/alfernanandes/
 
 ![image](https://github.com/user-attachments/assets/b228892c-c72c-4aae-96a8-6d3f44f3d97e)
 
+---
 
 ## 🤖 Estrutura do Frameworks - Gestão Estratégica e Operacional em times de tecnologia 
 - **Visão Estratégica:** Alinhamento com objetivos de negócio e planejamento técnico.
   - [Definindo OKRs Organizacionais em Times de Tecnologia](https://github.com/af-tech-manager/portfolio/blob/main/01-Visao-Estrategica/OKRs.md)
   - [Planejamento Estratégico em Times de Tecnologia e Operações](https://github.com/af-tech-manager/portfolio/blob/main/01-Visao-Estrategica/Planejamento-Estrategico.md)
-  - [Roadmap Técnico Anual: Entregas Previstas e Marcos por Área Técnica](https://github.com/af-tech-manager/portfolio/blob/main/01-Visao-Estrategica/Roadmap-Tecnico-Anual.md)
+  - [Roadmap Técnico Anual: Entregas Previstas e Marcos por Área Técnica](https://github.com/af-tech-manager/portfolio/blob/main/01-Visao-Estrategica/Roadmap-Tecnico-Anual.md) 
 
 
 - **Gestão Técnica:** Arquitetura, padrões, devops e infraestrutura.
@@ -25,7 +26,7 @@ Perfil no LinkedIn: https://www.linkedin.com/in/alfernanandes/
   - [Infraestrutura e Mapeamento de Ambientes: A Base para uma TI Resiliente](https://github.com/af-tech-manager/portfolio/blob/main/02-Gestao-Tecnica/Documentacao-Infraestrutura.md)
   - [Padrões de Código: Guia de Estilo e Boas Práticas de Revisão Técnica](https://github.com/af-tech-manager/portfolio/blob/main/02-Gestao-Tecnica/Padroes-Codigo.md)
   - [Pipeline CI/CD: Etapas, Ferramentas e Boas Práticas](https://github.com/af-tech-manager/portfolio/blob/main/02-Gestao-Tecnica/Pipeline-CI-CD.md)
-  - [Processo de Deploy: Checklists e Boas Práticas para Entregas Confiáveis](https://github.com/af-tech-manager/portfolio/blob/main/02-Gestao-Tecnica/Processo-Deploy.md)
+  - [Processo de Deploy: Checklists e Boas Práticas para Entregas Confiáveis](https://github.com/af-tech-manager/portfolio/blob/main/02-Gestao-Tecnica/Processo-Deploy.md) 
 
 
 - **Gestão de Times:** Estruturação de squads, rituais, onboarding e carreira.
@@ -51,6 +52,8 @@ Perfil no LinkedIn: https://www.linkedin.com/in/alfernanandes/
   - [Protótipos Low-Code: Como Experimentar Rápido e Validar com Eficiência](https://github.com/af-tech-manager/portfolio/tree/main/06-Inovacao-e-P%26D/Prototipos-LowCode)
   - [Iniciativas com IA no Desenvolvimento de Software: Automação, Eficiência e Inovação](https://github.com/af-tech-manager/portfolio/blob/main/06-Inovacao-e-P%26D/AI-Iniciativas-Exploratorias.md)
   - [Avaliação de Novas Tecnologias: Como Escolher Stacks e Estratégias de Testes para sua Realidade](https://github.com/af-tech-manager/portfolio/blob/main/06-Inovacao-e-P%26D/Avaliacao-Tecnologias.md)
+
+---
 
 ## Licença - Termo de uso e responsabilidade com Direitos Autorais.
 [MIT](LICENSE)
