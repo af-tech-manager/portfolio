@@ -1,5 +1,5 @@
 # 🧹 Padrões de Código: Guia de Estilo e Boas Práticas de Revisão Técnica
-Por: [Alan Fernandes - Tech Manager ]
+Por: [ Alan Fernandes - Tech Manager ]
 
 ## Introdução
 Em ambientes de desenvolvimento colaborativo, manter a consistência do código é tão importante quanto a entrega de funcionalidades. Sem padrões de codificação, os projetos rapidamente se tornam difíceis de manter, testar e escalar.
@@ -22,10 +22,14 @@ São convenções que determinam como o código deve ser escrito, organizado e d
 - Boas práticas de segurança, testes e performance
 
 ## Por que Adotar um Guia de Estilo?
-✅ Melhora a legibilidade
-✅ Facilita a manutenção e onboarding de novos devs
-✅ Reduz bugs e inconsistências
-✅ Facilita a revisão de código (code review)
+✅ Melhora a legibilidade 
+
+✅ Facilita a manutenção e onboarding de novos devs 
+
+✅ Reduz bugs e inconsistências 
+
+✅ Facilita a revisão de código (code review) 
+
 ✅ Cria uma base técnica para escalar o time
 
 ## Exemplos de Guias de Estilo por Linguagem
@@ -91,15 +95,15 @@ Melhorar a qualidade do software por meio de uma análise colaborativa, antes do
 - SonarQube e CodeClimate (análise estática automatizada)
 
 ## Modelo de Checklist de Code Review
-[ ? ] O código está de acordo com o guia de estilo? \
-[ ? ] As funções têm nomes claros e descritivos? \
-[ ? ] Há testes automatizados cobrindo os novos casos? \
-[ ? ] O código evita duplicações e repetições? \
-[ ? ] Possui tratamento de erros e logs adequados? \
-[ ? ] Há comentários explicando decisões críticas? \
-[ ? ] O código é seguro contra injeções e vazamentos?
+[ x ] O código está de acordo com o guia de estilo? \
+[ x ] As funções têm nomes claros e descritivos? \
+[ x ] Há testes automatizados cobrindo os novos casos? \
+[ x ] O código evita duplicações e repetições? \
+[ x ] Possui tratamento de erros e logs adequados? \
+[ x ] Há comentários explicando decisões críticas? \
+[ x ] O código é seguro contra injeções e vazamentos?
 
 ## Conclusão
-Padrões de código e revisões bem feitas não são burocracia — são pilares de qualidade, confiança e escalabilidade em projetos de software. \
+Padrões de código e revisões bem feitas não são burocracia são pilares de qualidade, confiança e escalabilidade em projetos de software. \
 \
 Quando essas práticas são incorporadas à cultura da equipe, os benefícios se multiplicam: menos bugs, mais previsibilidade e sistemas sustentáveis a longo prazo.
