@@ -1,6 +1,6 @@
 # 🏗️ Arquitetura de Sistemas: Princípios, Camadas e Tecnologias Essenciais
 
-Por: [ Alan Fernandes - Tech Manager ]
+Por: [ Alan Fernandes - Tech Manager ] :house: [Voltar para home](https://github.com/af-tech-manager/portfolio/blob/main/README.md)
 
 # Introdução
 A arquitetura de sistemas é o esqueleto que sustenta aplicações robustas, escaláveis e seguras. Ela define como os componentes técnicos se conectam, quais responsabilidades são atribuídas a cada camada e quais tecnologias sustentam essas decisões.
@@ -108,3 +108,6 @@ Responsável pela entrega, escalabilidade e operação do sistema.
 A arquitetura de sistemas é muito mais do que “escolher tecnologias”. É sobre tomar decisões conscientes, com foco em sustentabilidade técnica e impacto de longo prazo. Ela precisa estar alinhada aos objetivos do negócio, ser documentada, compreensível e evolutiva.
 
 A escolha certa de arquitetura pode acelerar a inovação, reduzir custos e tornar a equipe mais produtiva.
+
+---
+:house: [Voltar para home](https://github.com/af-tech-manager/portfolio/blob/main/README.md)
