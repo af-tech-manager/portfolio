@@ -53,7 +53,10 @@ Perfil no LinkedIn: https://www.linkedin.com/in/alfernanandes/
   - [Iniciativas com IA no Desenvolvimento de Software: Automação, Eficiência e Inovação](https://github.com/af-tech-manager/portfolio/blob/main/06-Inovacao-e-P%26D/AI-Iniciativas-Exploratorias.md)
   - [Avaliação de Novas Tecnologias: Como Escolher Stacks e Estratégias de Testes para sua Realidade](https://github.com/af-tech-manager/portfolio/blob/main/06-Inovacao-e-P%26D/Avaliacao-Tecnologias.md)
 
----
 
 ## Licença - Termo de uso e responsabilidade com Direitos Autorais.
-[MIT](LICENSE)
+[MIT](LICENSE
+
+---
+:lock: 2025 - Todos os direitos autorais reservados à Alan Fernandes - pm.alfernandes@gmail.com
+
