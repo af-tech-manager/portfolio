@@ -1,5 +1,5 @@
 # 📊 Dashboards DevOps: Indicadores, Modelos e Ferramentas para Monitoramento de Entregas e Operações
-Por: [ Alan Fernandes - Tech Manager ]
+Por: [ Alan Fernandes - Tech Manager ] :house: [Voltar para home](https://github.com/af-tech-manager/portfolio/blob/main/README.md)
 
 ## Introdução
 Um dos pilares da cultura DevOps é a observabilidade. Ter dashboards bem estruturados é fundamental para que times de tecnologia consigam visualizar o estado dos sistemas, acompanhar a saúde dos pipelines, entender o desempenho das entregas e reagir rapidamente a incidentes.
@@ -125,3 +125,5 @@ Dashboards DevOps são muito mais do que ferramentas visuais são catalisadores 
 \
 Se bem construídos, eles ajudam a criar uma cultura de transparência, aprendizado e excelência operacional.
 
+---
+:house: [Voltar para home](https://github.com/af-tech-manager/portfolio/blob/main/README.md)
