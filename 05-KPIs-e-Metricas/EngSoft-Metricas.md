@@ -1,5 +1,5 @@
 # 📈 Métricas de Engenharia de Software: Lead Time, Cycle Time, Bugs e Indicadores de Qualidade
-Por: [ Alan Fernandes - Tech Manager ]
+Por: [ Alan Fernandes - Tech Manager ] :house: [Voltar para home](https://github.com/af-tech-manager/portfolio/blob/main/README.md)
 
 ## Introdução
 Você não pode melhorar o que não mede. Em Engenharia de Software, métricas bem definidas ajudam a transformar intuições em decisões, alinhando eficiência técnica, qualidade de produto e velocidade de entrega. Porém, para que funcionem de verdade, essas métricas precisam ser interpretadas com contexto e focadas em melhoria contínua e não em controle excessivo.
@@ -109,3 +109,6 @@ Este artigo apresenta as principais métricas de engenharia utilizadas por times
 Métricas bem aplicadas potencializam a performance do time, elevam a qualidade do produto e ajudam a tomar decisões estratégicas com embasamento real. Quando combinadas com rituais ágeis, como retrospectivas e planning, tornam-se aliadas poderosas da cultura de melhoria contínua.
 
 Lembre-se: As métricas são guias, não grilhões. O foco é sempre evoluir, e não vigiar.
+
+---
+:house: [Voltar para home](https://github.com/af-tech-manager/portfolio/blob/main/README.md)
