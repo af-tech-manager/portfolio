@@ -108,4 +108,4 @@ Este artigo apresenta as principais métricas de engenharia utilizadas por times
 ## Conclusão
 Métricas bem aplicadas potencializam a performance do time, elevam a qualidade do produto e ajudam a tomar decisões estratégicas com embasamento real. Quando combinadas com rituais ágeis, como retrospectivas e planning, tornam-se aliadas poderosas da cultura de melhoria contínua.
 
-Lembre-se: as métricas são guias, não grilhões. O foco é sempre evoluir, e não vigiar.
+Lembre-se: As métricas são guias, não grilhões. O foco é sempre evoluir, e não vigiar.
