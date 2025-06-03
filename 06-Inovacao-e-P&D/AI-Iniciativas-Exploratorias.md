@@ -8,9 +8,13 @@ Este artigo apresenta iniciativas práticas com IA que podem ser aplicadas ao pr
 
 ## Por que aplicar IA no Desenvolvimento?
 ✅ Reduz tempo de entrega (time-to-market)
+
 ✅ Automatiza tarefas repetitivas e de baixo valor agregado
+
 ✅ Melhora a qualidade do código e da documentação
+
 ✅ Aumenta a capacidade analítica e preditiva do time
+
 ✅ Gera inovação nos produtos com interfaces inteligentes
 
 ## Principais Áreas de Aplicação
