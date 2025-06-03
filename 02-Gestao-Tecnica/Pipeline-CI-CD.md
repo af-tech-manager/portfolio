@@ -1,5 +1,5 @@
 # ⚙️ Pipeline CI/CD: Etapas, Ferramentas e Boas Práticas
-Por: [ Alan Fernandes - Tech Manager ]
+Por: [ Alan Fernandes - Tech Manager ] :house: [Voltar para home](https://github.com/af-tech-manager/portfolio/blob/main/README.md)
 
 ## Introdução
 A entrega de software moderna exige velocidade, qualidade e automação. Nesse contexto, o uso de Pipelines CI/CD (Continuous Integration / Continuous Delivery) se tornou padrão nas equipes de alta performance.
@@ -62,3 +62,6 @@ Termo	Significado
 Pipelines CI/CD são a coluna vertebral da engenharia moderna de software. Com eles, times ganham agilidade, previsibilidade e segurança na entrega contínua de valor ao cliente. \
 \
 Quando bem configurado, o pipeline se torna um aliado estratégico para o negócio.
+
+---
+:house: [Voltar para home](https://github.com/af-tech-manager/portfolio/blob/main/README.md)
