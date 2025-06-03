@@ -2,7 +2,7 @@
 Por: [ Alan Fernandes - Tech Maanger ]
 
 ## Introdução
-Com a crescente adoção de metodologias ágeis e o foco em entregas rápidas e iterativas, muitas empresas migraram de estruturas tradicionais para modelos mais flexíveis e orientados a produtos. Um dos modelos mais populares é inspirado no Spotify Model, com squads, chapters, guildas e tribes — e adaptado por diversas organizações mundo afora.
+Com a crescente adoção de metodologias ágeis e o foco em entregas rápidas e iterativas, muitas empresas migraram de estruturas tradicionais para modelos mais flexíveis e orientados a produtos. Um dos modelos mais populares é inspirado no Spotify Model, com squads, chapters, guildas e tribes e adaptado por diversas organizações mundo afora.
 
 Este artigo explica essa estrutura e os papéis fundamentais para formar times autônomos, alinhados e de alta performance.
 
@@ -73,10 +73,14 @@ Exemplo:
 
 
 ## Benefícios da Estrutura em Squads
-✅ Escalabilidade organizacional \
-✅ Foco no cliente e no produto \
-✅ Redução de silos e dependências \
-✅ Maior autonomia e senso de propósito nos times \
+✅ Escalabilidade organizacional 
+
+✅ Foco no cliente e no produto 
+
+✅ Redução de silos e dependências 
+
+✅ Maior autonomia e senso de propósito nos times 
+
 ✅ Adoção natural de DevOps e ownership técnico 
 
 ## Possíveis Desafios
