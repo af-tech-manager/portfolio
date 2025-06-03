@@ -108,5 +108,6 @@ Quando conectadas ao ciclo de inspeção e adaptação das retrospectivas, métr
 O segredo está em usar dados para contar histórias e tomar decisões! É não para julgar pessoas.
 
 ---
-:house: [Voltar para home](https://github.com/af-tech-manager/portfolio/blob/main/README.md)
+:lock: 2025 - Todos os direitos autorais reservados à Alan Fernandes - pm.alfernandes@gmail.com
+
 
