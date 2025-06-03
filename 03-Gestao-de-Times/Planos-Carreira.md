@@ -60,16 +60,16 @@ Foco na liderança de times, gestão de performance, alinhamento estratégico e 
 
 ## Trilhas Comuns em Outras Funções de TI
 #### 🎨 Product Design / UX
-Júnior → Pleno → Sênior → Principal Designer → Head Design
+- Júnior → Pleno → Sênior → Principal Designer → Head Design
 
 #### 🧪 QA / Testes
-Tester Júnior → QA Pleno → QA Sênior → Especialista em Testes → QA Manager
+- Tester Júnior → QA Pleno → QA Sênior → Especialista em Testes → QA Manager
 
 #### 📊 Product Owner / Gestão de Produto
-Associate PO → PO → PM → Senior PM → Group PM → CPO
+- Associate PO → PO → PM → Senior PM → Group PM → CPO
 
 #### 📅 Gerente de Projetos / PMO
-Assistente PMO → PMO Pleno → Project Manager → Sr. Project Manager → PMO Lead
+- Assistente PMO → PMO Pleno → Project Manager → Sr. Project Manager → PMO Lead
 
 ## Boas Práticas para Construir um Plano de Carreira
 🗺️ Mapeie competências técnicas e comportamentais
