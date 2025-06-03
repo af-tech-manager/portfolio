@@ -127,4 +127,4 @@ Políticas de segurança são a base para uma governança digital forte e susten
 Mais do que um documento formal, uma política de segurança eficaz é aquela que é aplicada, monitorada e compreendida por todos na organização.
 
 ---
-:house: [Voltar para home](https://github.com/af-tech-manager/portfolio/blob/main/README.md)
+:lock: 2025 - Todos os direitos autorais reservados à Alan Fernandes - pm.alfernandes@gmail.com
