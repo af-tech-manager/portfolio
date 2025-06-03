@@ -26,10 +26,14 @@ Um **roadmap técnico anual** é um plano visual que descreve:
 
 ## Benefícios de um Roadmap Técnico
 
-✅ **Visão unificada e compartilhada** \
-✅ **Alinhamento entre tecnologia e negócio** \
-✅ **Gestão de prioridades com base em capacidade real** \
-✅ **Redução de retrabalho e conflitos entre times** \
+✅ **Visão unificada e compartilhada** 
+
+✅ **Alinhamento entre tecnologia e negócio** 
+
+✅ **Gestão de prioridades com base em capacidade real** 
+
+✅ **Redução de retrabalho e conflitos entre times** 
+
 ✅ **Foco em valor e impacto, e não apenas em tarefas** 
 
 
