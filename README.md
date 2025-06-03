@@ -55,7 +55,7 @@ Perfil no LinkedIn: https://www.linkedin.com/in/alfernanandes/
 
 
 ## Licença - Termo de uso e responsabilidade com Direitos Autorais.
-[MIT](LICENSE
+[MIT](LICENSE)
 
 ---
 :lock: 2025 - Todos os direitos autorais reservados à Alan Fernandes - pm.alfernandes@gmail.com
