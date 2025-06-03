@@ -105,6 +105,6 @@ Tanto o GDPR quanto a LGPD asseguram aos titulares os seguintes direitos:
 | GDPR       | Até €20 milhões ou 4% do faturamento global da empresa    |
 
 ## Conclusão
-Privacidade de dados não é apenas um requisito legal — é uma vantagem competitiva. Empresas que implementam boas práticas de proteção e governança transmitem confiança, evitam crises reputacionais e garantem conformidade com legislações como a LGPD e o GDPR. \
+Privacidade de dados não é apenas um requisito legal é uma vantagem competitiva. Empresas que implementam boas práticas de proteção e governança transmitem confiança, evitam crises reputacionais e garantem conformidade com legislações como a LGPD e o GDPR. \
 \
 A adoção de políticas sólidas, controle técnico e transparência com os usuários é o caminho para construir um ambiente digital mais ético, seguro e sustentável.
