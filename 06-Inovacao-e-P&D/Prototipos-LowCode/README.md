@@ -110,4 +110,4 @@ Prototipagem com low-code é uma abordagem moderna, eficiente e alinhada à ment
 Com o uso de ferramentas visuais e acessíveis, times multidisciplinares podem reduzir riscos e acelerar a inovação de forma colaborativa.
 
 ---
-:house: [Voltar para home](https://github.com/af-tech-manager/portfolio/blob/main/README.md)
+:lock: 2025 - Todos os direitos autorais reservados à Alan Fernandes - pm.alfernandes@gmail.com
