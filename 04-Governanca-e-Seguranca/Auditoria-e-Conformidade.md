@@ -1,5 +1,5 @@
 # 🛡️ Auditoria e Conformidade em TI: Checklist e Requisitos Essenciais
-Por [ Alan Fernandes - Tech Manager ]
+Por [ Alan Fernandes - Tech Manager ] :house: [Voltar para home](https://github.com/af-tech-manager/portfolio/blob/main/README.md)
 
 ## Introdução
 Em um cenário cada vez mais orientado por dados e regulamentos, garantir conformidade legal, técnica e processual se tornou uma exigência crítica para áreas de Tecnologia. Além disso, processos bem estruturados de auditoria interna e externa ajudam a prevenir riscos, aumentar a confiabilidade dos sistemas e melhorar a governança da organização.
@@ -109,3 +109,6 @@ Avaliar riscos operacionais e recomendações de melhorias
 A conformidade em TI vai além de "cumprir normas" é um instrumento estratégico de credibilidade, mitigação de riscos e proteção da reputação. \
 \
 Empresas que investem em auditoria e compliance fortalecem sua governança e se posicionam de forma segura em um mercado cada vez mais regulado.
+
+---
+:house: [Voltar para home](https://github.com/af-tech-manager/portfolio/blob/main/README.md)
