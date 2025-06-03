@@ -19,6 +19,7 @@ Perfil no LinkedIn: https://www.linkedin.com/in/alfernanandes/
   - [Planejamento Estratégico em Times de Tecnologia e Operações](https://github.com/af-tech-manager/portfolio/blob/main/01-Visao-Estrategica/Planejamento-Estrategico.md)
   - [Roadmap Técnico Anual: Entregas Previstas e Marcos por Área Técnica](https://github.com/af-tech-manager/portfolio/blob/main/01-Visao-Estrategica/Roadmap-Tecnico-Anual.md)
 
+
 - **Gestão Técnica:** Arquitetura, padrões, devops e infraestrutura.
   - [Arquitetura de Sistemas: Princípios, Camadas e Tecnologias Essenciais](https://github.com/af-tech-manager/portfolio/blob/main/02-Gestao-Tecnica/Arquitetura-Sistemas.md)
   - [Infraestrutura e Mapeamento de Ambientes: A Base para uma TI Resiliente](https://github.com/af-tech-manager/portfolio/blob/main/02-Gestao-Tecnica/Documentacao-Infraestrutura.md)
@@ -26,22 +27,25 @@ Perfil no LinkedIn: https://www.linkedin.com/in/alfernanandes/
   - [Pipeline CI/CD: Etapas, Ferramentas e Boas Práticas](https://github.com/af-tech-manager/portfolio/blob/main/02-Gestao-Tecnica/Pipeline-CI-CD.md)
   - [Processo de Deploy: Checklists e Boas Práticas para Entregas Confiáveis](https://github.com/af-tech-manager/portfolio/blob/main/02-Gestao-Tecnica/Processo-Deploy.md)
 
+
 - **Gestão de Times:** Estruturação de squads, rituais, onboarding e carreira.
   - [Estrutura de Times: Squads, Chapters e Papéis em Organizações Tecnológicas](https://github.com/af-tech-manager/portfolio/blob/main/03-Gestao-de-Times/Estrutura-Times.md)
   - [Onboarding em Times de Tecnologia: Checklist por Papel para Integração Rápida e Eficiente](https://github.com/af-tech-manager/portfolio/blob/main/03-Gestao-de-Times/Onboarding-Checklist.md)
   - [Planos de Carreira em Times de TI: Trilhas, Níveis e Expectativas](https://github.com/af-tech-manager/portfolio/blob/main/03-Gestao-de-Times/Planos-Carreira.md)
   - [Rituais Ágeis: Como Conduzir Daily, Planning, Review e Retrospective com Eficiência](https://github.com/af-tech-manager/portfolio/blob/main/03-Gestao-de-Times/Ritos-Agile.md)
+    
 
 - **Governança e Segurança:** Políticas de segurança, LGPD, compliance.
   - [Auditoria e Conformidade em TI: Checklist e Requisitos Essenciais](https://github.com/af-tech-manager/portfolio/blob/main/04-Governanca-e-Seguranca/Auditoria-e-Conformidade.md)
   - [GDPR e LGPD: Boas Práticas de Privacidade para Empresas de Tecnologia](https://github.com/af-tech-manager/portfolio/blob/main/04-Governanca-e-Seguranca/Controles-GDPR-LGPD.md)
   - [Políticas de Segurança: Controles Essenciais e Práticas de Conformidade](https://github.com/af-tech-manager/portfolio/blob/main/04-Governanca-e-Seguranca/Politicas-Seguranca.md)
-  - 
+  
  
 - **Métricas e Indicadores:** KPIs técnicos, produtividade, DevOps.
   - [KPIs e Métricas em Times Ágeis: Como Medir, Analisar e Evoluir com Retrospectivas](https://github.com/af-tech-manager/portfolio/blob/main/05-KPIs-e-Metricas/Analise-Retrospectiva.md)
   - [Dashboards DevOps: Indicadores, Modelos e Ferramentas para Monitoramento de Entregas e Operações](https://github.com/af-tech-manager/portfolio/blob/main/05-KPIs-e-Metricas/Dashboards-DevOps.md)
   - [Métricas de Engenharia de Software: Lead Time, Cycle Time, Bugs e Indicadores de Qualidade](https://github.com/af-tech-manager/portfolio/blob/main/05-KPIs-e-Metricas/EngSoft-Metricas.md)
+
 
 - **Inovação:** Pesquisa de novas tecnologias, IA, low-code.
   - [Protótipos Low-Code: Como Experimentar Rápido e Validar com Eficiência](https://github.com/af-tech-manager/portfolio/tree/main/06-Inovacao-e-P%26D/Prototipos-LowCode)
