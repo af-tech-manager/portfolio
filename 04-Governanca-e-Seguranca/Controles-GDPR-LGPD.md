@@ -1,5 +1,5 @@
 # 🔒 GDPR e LGPD: Boas Práticas de Privacidade para Empresas de Tecnologia
-Por: [ Alan Fernandes - Tech Manager ]
+Por: [ Alan Fernandes - Tech Manager ] :house: [Voltar para home](https://github.com/af-tech-manager/portfolio/blob/main/README.md)
 
 ## Introdução
 A privacidade de dados se tornou um dos temas mais relevantes da era digital. Com o aumento de vazamentos, coleta massiva e monetização de informações pessoais, legislações como o GDPR (General Data Protection Regulation) na União Europeia e a LGPD (Lei Geral de Proteção de Dados) no Brasil surgiram para proteger os direitos dos titulares de dados e responsabilizar empresas que tratam informações sensíveis.
@@ -108,3 +108,6 @@ Tanto o GDPR quanto a LGPD asseguram aos titulares os seguintes direitos:
 Privacidade de dados não é apenas um requisito legal é uma vantagem competitiva. Empresas que implementam boas práticas de proteção e governança transmitem confiança, evitam crises reputacionais e garantem conformidade com legislações como a LGPD e o GDPR. \
 \
 A adoção de políticas sólidas, controle técnico e transparência com os usuários é o caminho para construir um ambiente digital mais ético, seguro e sustentável.
+
+---
+:house: [Voltar para home](https://github.com/af-tech-manager/portfolio/blob/main/README.md)
