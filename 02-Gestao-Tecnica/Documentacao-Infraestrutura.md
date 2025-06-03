@@ -1,5 +1,5 @@
 # 🧱 Infraestrutura e Mapeamento de Ambientes: A Base para uma TI Resiliente
-Por: [ Alan Fernandes - Tech Manager ]
+Por: [ Alan Fernandes - Tech Manager ] :house: [Voltar para home](https://github.com/af-tech-manager/portfolio/blob/main/README.md)
 
 ## Introdução
 A infraestrutura de TI é a espinha dorsal de qualquer organização digital. Ela sustenta os sistemas, plataformas, dados e aplicações críticas ao negócio. Porém, sem um mapeamento de ambientes estruturado e atualizado, é impossível garantir resiliência, segurança, eficiência e conformidade.
@@ -108,3 +108,6 @@ Identifique os tipos de dados tratados em cada ambiente:
 Mapear ambientes é o primeiro passo para uma gestão de infraestrutura moderna, segura e escalável. \
 \
 Sem esse mapeamento, não há controle sobre riscos, custos ou impactos técnicos. Com ele, a organização pode crescer com confiança, planejando upgrades, automações e migrações com muito mais previsibilidade.
+
+---
+:house: [Voltar para home](https://github.com/af-tech-manager/portfolio/blob/main/README.md)
