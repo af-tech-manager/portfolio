@@ -111,4 +111,4 @@ A conformidade em TI vai além de "cumprir normas" é um instrumento estratégic
 Empresas que investem em auditoria e compliance fortalecem sua governança e se posicionam de forma segura em um mercado cada vez mais regulado.
 
 ---
-:house: [Voltar para home](https://github.com/af-tech-manager/portfolio/blob/main/README.md)
+:lock: 2025 - Todos os direitos autorais reservados à Alan Fernandes - pm.alfernandes@gmail.com
