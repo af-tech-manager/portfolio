@@ -1,5 +1,5 @@
 # 🔁 Rituais Ágeis: Como Conduzir Daily, Planning, Review e Retrospective com Eficiência
-Por: [Alan Fernandes - Tech Manager ]
+Por: [ Alan Fernandes - Tech Manager ]
 
 ## Introdução
 Em times ágeis, os rituais (ou cerimônias) são muito mais do que reuniões: são momentos-chave de alinhamento, inspeção e adaptação contínua. Conduzidos corretamente, eles aumentam a colaboração, a transparência e a entrega de valor real ao cliente.
