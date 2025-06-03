@@ -95,4 +95,4 @@ A estrutura com squads, chapters e guildas ajuda a construir times autônomos, b
 O modelo não é receita de bolo, mas um framework flexível que deve ser adaptado à cultura, maturidade e contexto de cada organização.
 
 ---
-:house: [Voltar para home](https://github.com/af-tech-manager/portfolio/blob/main/README.md)
+:lock: 2025 - Todos os direitos autorais reservados à Alan Fernandes - pm.alfernandes@gmail.com
