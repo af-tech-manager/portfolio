@@ -111,4 +111,4 @@ Métricas bem aplicadas potencializam a performance do time, elevam a qualidade 
 Lembre-se: As métricas são guias, não grilhões. O foco é sempre evoluir, e não vigiar.
 
 ---
-:house: [Voltar para home](https://github.com/af-tech-manager/portfolio/blob/main/README.md)
+:lock: 2025 - Todos os direitos autorais reservados à Alan Fernandes - pm.alfernandes@gmail.com
