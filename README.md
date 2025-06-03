@@ -15,6 +15,7 @@ Perfil no LinkedIn: https://www.linkedin.com/in/alfernanandes/
 
 ## 🤖 Estrutura do Frameworks - Gestão Estratégica e Operacional em times de tecnologia 
 - **Visão Estratégica:** Alinhamento com objetivos de negócio e planejamento técnico.
+  - [OKRs](https://github.com/af-tech-manager/portfolio/blob/main/01-Visao-Estrategica/OKRs.md)
 - **Gestão Técnica:** Arquitetura, padrões, devops e infraestrutura.
 - **Gestão de Times:** Estruturação de squads, rituais, onboarding e carreira.
 - **Governança e Segurança:** Políticas de segurança, LGPD, compliance.
