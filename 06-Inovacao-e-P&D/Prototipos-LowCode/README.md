@@ -16,10 +16,14 @@ São soluções funcionais (parciais ou completas) criadas com plataformas que m
 - Testar fluxos e interações antes de investir em código definitivo
 
 ## Vantagens dos Protótipos Low-Code
-✅ Acelera testes de usabilidade e funcionalidades \
-✅ Reduz tempo e custo de desenvolvimento \
-✅ Permite validação com stakeholders e clientes reais \
-✅ Estimula colaboração entre produto, design e tecnologia \
+✅ Acelera testes de usabilidade e funcionalidades 
+
+✅ Reduz tempo e custo de desenvolvimento 
+
+✅ Permite validação com stakeholders e clientes reais 
+
+✅ Estimula colaboração entre produto, design e tecnologia 
+
 ✅ Pode evoluir para MVPs ou produtos reais
 
 ## Quando Usar?
