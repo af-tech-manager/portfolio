@@ -1,5 +1,5 @@
 # 🛡️ Políticas de Segurança: Controles Essenciais e Práticas de Conformidade
-Por: [ Alan Fernandes - Tech Manager ]
+Por: [ Alan Fernandes - Tech Manager ] :house: [Voltar para home](https://github.com/af-tech-manager/portfolio/blob/main/README.md)
 
 ## Introdução
 Em um mundo cada vez mais conectado, ataques cibernéticos, vazamentos de dados e falhas humanas representam riscos reais para organizações de todos os portes. Para mitigar esses riscos, é fundamental estabelecer Políticas de Segurança da Informação (PSI), aliadas a controles técnicos, administrativos e legais que garantam a integridade, confidencialidade e disponibilidade dos ativos.
@@ -125,3 +125,6 @@ Para estar em conformidade, a política deve:
 Políticas de segurança são a base para uma governança digital forte e sustentável. Elas protegem os dados, os sistemas e a reputação da empresa, ao mesmo tempo que asseguram conformidade com legislações e padrões globais.
 
 Mais do que um documento formal, uma política de segurança eficaz é aquela que é aplicada, monitorada e compreendida por todos na organização.
+
+---
+:house: [Voltar para home](https://github.com/af-tech-manager/portfolio/blob/main/README.md)
