@@ -3,7 +3,7 @@
 
 Este repositório contém práticas, documentos e frameworks utilizados na atuação como Tech Manager. Ele serve como guia pessoal e referência para liderar times técnicos com excelência, garantir qualidade de entrega, governança, inovação e alinhamento estratégico.
 
-Vamos nos conhecer mais? Veja minha ([Apresentação Profissional](https://github.com/af-tech-manager/home))!
+Vamos nos conhecer mais? Veja minha ([Apresentação Profissional](https://github.com/af-tech-manager/home)) !
 
 ## 🛣️ Sobre a minha jornada profissional 
 Como gestor de TI com mais de 18 anos de experiência, lidero iniciativas estratégicas na Paipe, garantindo a entrega de soluções tecnológicas alinhadas aos objetivos de negócios. Minhas responsabilidades incluem a supervisão de projetos, definição de estratégias técnicas, gestão de orçamentos e implementação de boas práticas de qualidade e engenharia de software, integridade e continuidade dos sistemas. \
