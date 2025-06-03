@@ -7,11 +7,16 @@ O crescimento profissional é uma das maiores motivações de talentos em tecnol
 Este artigo apresenta como construir trilhas de carreira em TI, definindo níveis, expectativas, soft/hard skills e diferenciais entre liderança técnica e de gestão.
 
 ## Por que ter um Plano de Carreira em TI?
-✅ Reduz a rotatividade de talentos \
-✅ Alinha expectativas entre líder e liderado \
-✅ Estimula o aprendizado contínuo \
-✅ Gera clareza nas promoções e feedbacks \
-✅ Ajuda na definição de metas e PDIs \
+✅ Reduz a rotatividade de talentos 
+
+✅ Alinha expectativas entre líder e liderado 
+
+✅ Estimula o aprendizado contínuo 
+
+✅ Gera clareza nas promoções e feedbacks 
+
+✅ Ajuda na definição de metas e PDIs 
+
 ✅ Fortalece a cultura de meritocracia e desenvolvimento
 
 ## Estrutura Básica de Trilhas
