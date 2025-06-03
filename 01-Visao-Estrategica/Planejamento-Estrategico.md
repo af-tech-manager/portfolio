@@ -1,5 +1,5 @@
 # 🧭 Planejamento Estratégico em Times de Tecnologia e Operações
-Por [ Alan Fernandes - Tech Manager ]
+Por: [ Alan Fernandes - Tech Manager ]
 
 ## Introdução
 No cenário atual de transformação digital, os times de Tecnologia e Operações deixaram de ser áreas de apoio e passaram a ocupar papel estratégico no crescimento e sustentabilidade das organizações. Para que essa evolução aconteça de forma estruturada e mensurável, o Planejamento Estratégico se torna um instrumento indispensável.
