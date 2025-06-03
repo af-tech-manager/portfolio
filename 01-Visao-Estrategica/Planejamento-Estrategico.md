@@ -94,6 +94,6 @@ Tornar a infraestrutura resiliente, segura e escalável
 - Revisão de políticas de IAM
 
 ## Conclusão
-Planejamento estratégico em Tecnologia e Operações não é um luxo, é uma necessidade. Quando bem estruturado, permite que a TI deixe de ser apenas um centro de custo para se tornar um motor de valor, inovação e vantagem competitiva.
-
+Planejamento estratégico em Tecnologia e Operações não é um luxo, é uma necessidade. Quando bem estruturado, permite que a TI deixe de ser apenas um centro de custo para se tornar um motor de valor, inovação e vantagem competitiva. \
+\
 Times que planejam com clareza, alinham com o negócio e medem o impacto das suas ações estão melhor preparados para navegar em cenários de mudança constante e exigências crescentes.
