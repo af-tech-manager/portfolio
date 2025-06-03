@@ -1,5 +1,5 @@
 # 📊 KPIs e Métricas em Times Ágeis: Como Medir, Analisar e Evoluir com Retrospectivas
-Por: [ Alan Fernandes - Tech Manager ]
+Por: [ Alan Fernandes - Tech Manager ] :house: [Voltar para home](https://github.com/af-tech-manager/portfolio/blob/main/README.md)
 
 ## Introdução
 Métricas e KPIs (Key Performance Indicators) são fundamentais para a melhoria contínua em times ágeis. Quando utilizadas de forma inteligente especialmente em rituais como retrospectivas elas deixam de ser apenas números e passam a ser ferramentas de aprendizado e evolução do time.
@@ -106,4 +106,7 @@ Causas identificadas:
 Quando conectadas ao ciclo de inspeção e adaptação das retrospectivas, métricas deixam de ser números frios e se tornam aliadas do crescimento real do time. Elas ajudam a visualizar gargalos, medir impacto das ações anteriores e criar um ciclo virtuoso de melhoria contínua. \
 \
 O segredo está em usar dados para contar histórias e tomar decisões! É não para julgar pessoas.
+
+---
+:house: [Voltar para home](https://github.com/af-tech-manager/portfolio/blob/main/README.md)
 
