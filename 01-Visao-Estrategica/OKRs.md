@@ -19,7 +19,7 @@ Por exemplo:
 * **KR1:** Reduzir em 50% o número de incidentes P1
 * **KR2:** Aumentar cobertura de testes automatizados para 85%
 
----
+
 
 ## Por que usar OKRs na área de Tecnologia?
 
@@ -30,6 +30,8 @@ Times de tecnologia lidam com múltiplas demandas — manutenção, inovação, 
 * **Promover foco e priorização**
 * **Evitar métricas de vaidade e incentivar resultados reais**
 * **Aumentar a accountability sem microgerenciamento**
+
+
 
 ## Etapas para Definir OKRs em Tecnologia
 
@@ -48,6 +50,8 @@ Foque em *outcomes* (resultados), não apenas *outputs* (entregas). Ex: "tempo m
 ### 4. **Limite e Clareza**
 
 Recomenda-se no máximo 3 objetivos por trimestre, com até 3 KRs por objetivo. Mais que isso dilui o foco.
+
+
 
 ## Boas Práticas
 
