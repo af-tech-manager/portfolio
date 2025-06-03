@@ -1,6 +1,3 @@
-# OKRs
----
-
 # 🎯 Definindo OKRs Organizacionais em Times de Tecnologia
 
 *Por \[ALAN FERNANDES - Tech Manager]*
