@@ -2,15 +2,19 @@
 Por: [ Alan Fernandes - Tech Manager ]
 
 ## Introdução
-Métricas e KPIs (Key Performance Indicators) são fundamentais para a melhoria contínua em times ágeis. Quando utilizadas de forma inteligente especialmente em rituais como retrospectivas — elas deixam de ser apenas números e passam a ser ferramentas de aprendizado e evolução do time.
+Métricas e KPIs (Key Performance Indicators) são fundamentais para a melhoria contínua em times ágeis. Quando utilizadas de forma inteligente especialmente em rituais como retrospectivas elas deixam de ser apenas números e passam a ser ferramentas de aprendizado e evolução do time.
 
 Este artigo explica os principais indicadores que times ágeis podem usar, como conectá-los à realidade do time e traz um exemplo de análise de ciclo real aplicada a uma retrospectiva.
 
 ## Por que usar métricas em times ágeis?
-✅ Identificam gargalos e ineficiências \
-✅ Geram transparência e previsibilidade \
-✅ Facilitam decisões baseadas em dados \
-✅ Aumentam a maturidade do time \
+✅ Identificam gargalos e ineficiências 
+
+✅ Geram transparência e previsibilidade 
+
+✅ Facilitam decisões baseadas em dados 
+
+✅ Aumentam a maturidade do time 
+
 ✅ Alinham expectativas com stakeholders
 
 ## Principais KPIs e Métricas em Engenharia de Software
@@ -99,7 +103,7 @@ Causas identificadas:
 🧾 Documente indicadores em mural ou wiki de squad
 
 ## Conclusão
-Quando conectadas ao ciclo de inspeção e adaptação das retrospectivas, métricas deixam de ser números frios e se tornam aliadas do crescimento real do time. Elas ajudam a visualizar gargalos, medir impacto das ações anteriores e criar um ciclo virtuoso de melhoria contínua.
-
+Quando conectadas ao ciclo de inspeção e adaptação das retrospectivas, métricas deixam de ser números frios e se tornam aliadas do crescimento real do time. Elas ajudam a visualizar gargalos, medir impacto das ações anteriores e criar um ciclo virtuoso de melhoria contínua. \
+\
 O segredo está em usar dados para contar histórias e tomar decisões! É não para julgar pessoas.
 
