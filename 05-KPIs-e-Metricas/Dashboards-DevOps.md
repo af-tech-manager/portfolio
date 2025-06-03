@@ -7,13 +7,17 @@ Um dos pilares da cultura DevOps é a observabilidade. Ter dashboards bem estrut
 Este artigo apresenta os principais tipos de dashboards utilizados em ambientes DevOps, os indicadores recomendados e ferramentas para criação e integração dessas visualizações.
 
 ## O que é um Dashboard DevOps?
-É um painel visual que consolida métricas técnicas, operacionais e de entrega, permitindo que diferentes stakeholders — como engenheiros, gestores, product owners e SREs acompanhem o desempenho da área de tecnologia em tempo real.
+É um painel visual que consolida métricas técnicas, operacionais e de entrega, permitindo que diferentes stakeholders como engenheiros, gestores, product owners e SREs acompanhem o desempenho da área de tecnologia em tempo real.
 
 ## Benefícios dos Dashboards DevOps
-✅ Visibilidade contínua sobre a saúde do produto \
-✅ Melhoria na comunicação entre times técnicos e negócios \
-✅ Identificação rápida de incidentes e gargalos \
-✅ Apoio à melhoria contínua e decisões baseadas em dados \
+✅ Visibilidade contínua sobre a saúde do produto 
+
+✅ Melhoria na comunicação entre times técnicos e negócios 
+
+✅ Identificação rápida de incidentes e gargalos 
+
+✅ Apoio à melhoria contínua e decisões baseadas em dados 
+
 ✅ Fomento à cultura de responsabilidade compartilhada
 
 ## Principais Indicadores para Dashboards DevOps
