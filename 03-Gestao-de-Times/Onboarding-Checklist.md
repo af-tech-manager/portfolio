@@ -4,15 +4,19 @@ Por: [ Alan Fernandes - Tech Manager ]
 ## Introdução
 A qualidade do onboarding influencia diretamente a produtividade, o engajamento e a retenção de talentos. Em times de tecnologia, onde o ambiente é dinâmico e os papéis são técnicos e estratégicos, um onboarding bem estruturado acelera a adaptação e reduz erros iniciais.
 
-Este artigo apresenta um guia prático de onboarding com checklists por papel — desenvolvedor, product designer, QA, gerente de projeto e PO — para garantir uma entrada completa, humana e produtiva.
+Este artigo apresenta um guia prático de onboarding com checklists por papel — desenvolvedor, product designer, QA, gerente de projeto e PO, para garantir uma entrada completa, humana e produtiva.
 
 ## Fundamentos de um Onboarding Eficiente
 ✅ Alinhamento com os valores e cultura da empresa
+
 ✅ Acesso rápido às ferramentas e plataformas
+
 ✅ Compreensão dos processos, produtos e stack tecnológico
+
 ✅ Clareza sobre papéis, responsabilidades e expectativas
+
 ✅ Acompanhamento nos primeiros dias e semanas
-\
+
 ## 🔧 Checklist de Onboarding por Papel
 👨‍💻 Desenvolvedor(a) de Software
 Antes do primeiro dia
@@ -55,7 +59,7 @@ Antes do primeiro dia
 - Participação em planning e dailies
 
 - Contribuição inicial em melhorias visuais ou protótipos
-\
+
 ## 🧪 QA / Tester
 Antes do primeiro dia
 
@@ -89,7 +93,7 @@ Antes do primeiro dia
 - Participação em reuniões de status e cerimônias ágeis
 
 - Definição de metas e entregáveis com o time de produto
-\
+
 ## 🎯 Product Owner (PO)
 Antes do primeiro dia
 
@@ -104,7 +108,7 @@ Conta nos sistemas de analytics, CRM e feedbacks (ex: Mixpanel, Hotjar)
 - Reunião de alinhamento com stakeholders de negócio
 
 - Priorização inicial de itens no backlog com o time
-\
+
 ## Boas Práticas para Todo Onboarding
 📅 Defina uma agenda de onboarding para os primeiros 10 dias
 
