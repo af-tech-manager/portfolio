@@ -110,4 +110,4 @@ Privacidade de dados não é apenas um requisito legal é uma vantagem competiti
 A adoção de políticas sólidas, controle técnico e transparência com os usuários é o caminho para construir um ambiente digital mais ético, seguro e sustentável.
 
 ---
-:house: [Voltar para home](https://github.com/af-tech-manager/portfolio/blob/main/README.md)
+:lock: 2025 - Todos os direitos autorais reservados à Alan Fernandes - pm.alfernandes@gmail.com
