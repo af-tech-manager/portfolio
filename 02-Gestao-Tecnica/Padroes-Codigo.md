@@ -100,4 +100,6 @@ Melhorar a qualidade do software por meio de uma análise colaborativa, antes do
 [ ? ] O código é seguro contra injeções e vazamentos?
 
 ## Conclusão
-Padrões de código e revisões bem feitas não são burocracia — são pilares de qualidade, confiança e escalabilidade em projetos de software. Quando essas práticas são incorporadas à cultura da equipe, os benefícios se multiplicam: menos bugs, mais previsibilidade e sistemas sustentáveis a longo prazo.
+Padrões de código e revisões bem feitas não são burocracia — são pilares de qualidade, confiança e escalabilidade em projetos de software. \
+\
+Quando essas práticas são incorporadas à cultura da equipe, os benefícios se multiplicam: menos bugs, mais previsibilidade e sistemas sustentáveis a longo prazo.
