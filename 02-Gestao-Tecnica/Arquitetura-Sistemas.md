@@ -110,4 +110,4 @@ A arquitetura de sistemas é muito mais do que “escolher tecnologias”. É so
 A escolha certa de arquitetura pode acelerar a inovação, reduzir custos e tornar a equipe mais produtiva.
 
 ---
-:house: [Voltar para home](https://github.com/af-tech-manager/portfolio/blob/main/README.md)
+:lock: 2025 - Todos os direitos autorais reservados à Alan Fernandes - pm.alfernandes@gmail.com
