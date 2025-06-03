@@ -4,7 +4,7 @@ Por: [ Alan Fernandes - Tech Manager ]
 ## Introdução
 O deploy (ou implantação) é uma das etapas mais críticas do ciclo de desenvolvimento de software. Um processo de deploy mal executado pode causar indisponibilidade, corromper dados ou comprometer a segurança de uma aplicação.
 
-Para mitigar riscos, os times modernos adotam processos bem definidos, automatização e checklists, garantindo entregas com previsibilidade, controle e qualidade — seja em ambientes tradicionais ou com práticas DevOps e CI/CD.
+Para mitigar riscos, os times modernos adotam processos bem definidos, automatização e checklists, garantindo entregas com previsibilidade, controle e qualidade seja em ambientes tradicionais ou com práticas DevOps e CI/CD.
 
 ## O que é o Processo de Deploy?
 É a sequência de atividades realizadas para mover uma versão de um software de um ambiente de desenvolvimento/homologação para produção ou uso real.
