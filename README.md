@@ -1,4 +1,4 @@
-# Alan Fernandes Tech Manager Playbook
+# Alan Fernandes Tech Manager
 
 Este repositório contém práticas, documentos e frameworks utilizados na atuação como Tech Manager. Ele serve como guia pessoal e referência para liderar times técnicos com excelência, garantir qualidade de entrega, governança, inovação e alinhamento estratégico.
 
