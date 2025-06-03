@@ -1,5 +1,5 @@
 # 🚀 Processo de Deploy: Checklists e Boas Práticas para Entregas Confiáveis
-Por: [ Alan Fernandes - Tech Manager ]
+Por: [ Alan Fernandes - Tech Manager ] :house: [Voltar para home](https://github.com/af-tech-manager/portfolio/blob/main/README.md)
 
 ## Introdução
 O deploy (ou implantação) é uma das etapas mais críticas do ciclo de desenvolvimento de software. Um processo de deploy mal executado pode causar indisponibilidade, corromper dados ou comprometer a segurança de uma aplicação.
@@ -114,3 +114,6 @@ Manual: baseado em scripts e passos documentados
 O deploy não deve ser um momento de tensão, mas sim uma etapa controlada e previsível.\
 \
 Ter um processo de deploy documentado, validado e com checklist claro é um diferencial competitivo que reduz riscos, aumenta a estabilidade e melhora a imagem do time técnico diante do negócio.
+
+---
+:house: [Voltar para home](https://github.com/af-tech-manager/portfolio/blob/main/README.md)
