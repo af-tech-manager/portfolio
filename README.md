@@ -27,12 +27,26 @@ Perfil no LinkedIn: https://www.linkedin.com/in/alfernanandes/
   - [Processo de Deploy: Checklists e Boas Práticas para Entregas Confiáveis](https://github.com/af-tech-manager/portfolio/blob/main/02-Gestao-Tecnica/Processo-Deploy.md)
 
 - **Gestão de Times:** Estruturação de squads, rituais, onboarding e carreira.
-  -
+  - [Estrutura de Times: Squads, Chapters e Papéis em Organizações Tecnológicas](https://github.com/af-tech-manager/portfolio/blob/main/03-Gestao-de-Times/Estrutura-Times.md)
+  - [Onboarding em Times de Tecnologia: Checklist por Papel para Integração Rápida e Eficiente](https://github.com/af-tech-manager/portfolio/blob/main/03-Gestao-de-Times/Onboarding-Checklist.md)
+  - [Planos de Carreira em Times de TI: Trilhas, Níveis e Expectativas](https://github.com/af-tech-manager/portfolio/blob/main/03-Gestao-de-Times/Planos-Carreira.md)
+  - [Rituais Ágeis: Como Conduzir Daily, Planning, Review e Retrospective com Eficiência](https://github.com/af-tech-manager/portfolio/blob/main/03-Gestao-de-Times/Ritos-Agile.md)
 
 - **Governança e Segurança:** Políticas de segurança, LGPD, compliance.
+  - [Auditoria e Conformidade em TI: Checklist e Requisitos Essenciais](https://github.com/af-tech-manager/portfolio/blob/main/04-Governanca-e-Seguranca/Auditoria-e-Conformidade.md)
+  - [GDPR e LGPD: Boas Práticas de Privacidade para Empresas de Tecnologia](https://github.com/af-tech-manager/portfolio/blob/main/04-Governanca-e-Seguranca/Controles-GDPR-LGPD.md)
+  - [Políticas de Segurança: Controles Essenciais e Práticas de Conformidade](https://github.com/af-tech-manager/portfolio/blob/main/04-Governanca-e-Seguranca/Politicas-Seguranca.md)
+  - 
+ 
 - **Métricas e Indicadores:** KPIs técnicos, produtividade, DevOps.
-- **Inovação:** Pesquisa de novas tecnologias, IA, low-code.
+  - [KPIs e Métricas em Times Ágeis: Como Medir, Analisar e Evoluir com Retrospectivas](https://github.com/af-tech-manager/portfolio/blob/main/05-KPIs-e-Metricas/Analise-Retrospectiva.md)
+  - [Dashboards DevOps: Indicadores, Modelos e Ferramentas para Monitoramento de Entregas e Operações](https://github.com/af-tech-manager/portfolio/blob/main/05-KPIs-e-Metricas/Dashboards-DevOps.md)
+  - [Métricas de Engenharia de Software: Lead Time, Cycle Time, Bugs e Indicadores de Qualidade](https://github.com/af-tech-manager/portfolio/blob/main/05-KPIs-e-Metricas/EngSoft-Metricas.md)
 
+- **Inovação:** Pesquisa de novas tecnologias, IA, low-code.
+  - [Protótipos Low-Code: Como Experimentar Rápido e Validar com Eficiência](https://github.com/af-tech-manager/portfolio/tree/main/06-Inovacao-e-P%26D/Prototipos-LowCode)
+  - [Iniciativas com IA no Desenvolvimento de Software: Automação, Eficiência e Inovação](https://github.com/af-tech-manager/portfolio/blob/main/06-Inovacao-e-P%26D/AI-Iniciativas-Exploratorias.md)
+  - [Avaliação de Novas Tecnologias: Como Escolher Stacks e Estratégias de Testes para sua Realidade](https://github.com/af-tech-manager/portfolio/blob/main/06-Inovacao-e-P%26D/Avaliacao-Tecnologias.md)
 
 ## Licença - Termo de uso e responsabilidade com Direitos Autorais.
 [MIT](LICENSE)
