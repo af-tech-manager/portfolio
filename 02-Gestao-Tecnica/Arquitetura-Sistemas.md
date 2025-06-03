@@ -5,7 +5,7 @@ Por: [ Alan Fernandes - Tech Manager ]
 # Introdução
 A arquitetura de sistemas é o esqueleto que sustenta aplicações robustas, escaláveis e seguras. Ela define como os componentes técnicos se conectam, quais responsabilidades são atribuídas a cada camada e quais tecnologias sustentam essas decisões.
 
-Uma boa arquitetura vai além da estrutura técnica — ela impacta diretamente a manutenibilidade, a performance, o tempo de entrega e até o custo operacional de uma solução.
+Uma boa arquitetura vai além da estrutura técnica ela impacta diretamente a manutenibilidade, a performance, o tempo de entrega e até o custo operacional de uma solução.
 
 ## O que é Arquitetura de Sistemas?
 É o conjunto de decisões estruturais e tecnológicas que definem:
