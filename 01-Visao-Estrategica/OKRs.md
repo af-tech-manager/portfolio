@@ -78,6 +78,6 @@ Os OKRs são mais do que uma ferramenta de gestão: são um mecanismo para criar
 Quando bem implementados, ajudam a transformar a área de Tecnologia em um agente estratégico da organização.
 
 ---
-:house: [Voltar para home](https://github.com/af-tech-manager/portfolio/blob/main/README.md)
+:lock: 2025 - Todos os direitos autorais reservados à Alan Fernandes - pm.alfernandes@gmail.com
 
 
