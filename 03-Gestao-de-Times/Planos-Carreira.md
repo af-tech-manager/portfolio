@@ -1,5 +1,5 @@
 # 📈 Planos de Carreira em Times de TI: Trilhas, Níveis e Expectativas
-Por: [ Alan Fernandes - Tech Manager ]
+Por: [ Alan Fernandes - Tech Manager ] :house: [Voltar para home](https://github.com/af-tech-manager/portfolio/blob/main/README.md)
 
 ## Introdução
 O crescimento profissional é uma das maiores motivações de talentos em tecnologia. Com mercados cada vez mais competitivos e profissionais buscando propósito e evolução, oferecer um plano de carreira estruturado é essencial para atrair, engajar e reter talentos técnicos.
@@ -102,3 +102,6 @@ Foco na liderança de times, gestão de performance, alinhamento estratégico e 
 Planos de carreira bem definidos são um pilar de qualquer time técnico de alta performance. Eles fornecem clareza, reconhecimento e direção, elementos fundamentais para reter talentos em um mercado aquecido. \
 \
 Mais do que promoções, esses planos devem incentivar crescimento real e contínuo, com base em entregas, maturidade e impacto.
+
+---
+:house: [Voltar para home](https://github.com/af-tech-manager/portfolio/blob/main/README.md)
