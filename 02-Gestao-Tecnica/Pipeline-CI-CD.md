@@ -59,4 +59,6 @@ Termo	Significado
 - CD (Implantação Contínua)	Deploy automático direto em produção (sem gatilhos manuais)
 
 ## Conclusão
-Pipelines CI/CD são a coluna vertebral da engenharia moderna de software. Com eles, times ganham agilidade, previsibilidade e segurança na entrega contínua de valor ao cliente. Quando bem configurado, o pipeline se torna um aliado estratégico para o negócio.
+Pipelines CI/CD são a coluna vertebral da engenharia moderna de software. Com eles, times ganham agilidade, previsibilidade e segurança na entrega contínua de valor ao cliente. \
+\
+Quando bem configurado, o pipeline se torna um aliado estratégico para o negócio.
