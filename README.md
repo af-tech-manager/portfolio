@@ -15,9 +15,20 @@ Perfil no LinkedIn: https://www.linkedin.com/in/alfernanandes/
 
 ## 🤖 Estrutura do Frameworks - Gestão Estratégica e Operacional em times de tecnologia 
 - **Visão Estratégica:** Alinhamento com objetivos de negócio e planejamento técnico.
-  - [OKRs](https://github.com/af-tech-manager/portfolio/blob/main/01-Visao-Estrategica/OKRs.md)
+  - [Definindo OKRs Organizacionais em Times de Tecnologia](https://github.com/af-tech-manager/portfolio/blob/main/01-Visao-Estrategica/OKRs.md)
+  - [Planejamento Estratégico em Times de Tecnologia e Operações](https://github.com/af-tech-manager/portfolio/blob/main/01-Visao-Estrategica/Planejamento-Estrategico.md)
+  - [Roadmap Técnico Anual: Entregas Previstas e Marcos por Área Técnica](https://github.com/af-tech-manager/portfolio/blob/main/01-Visao-Estrategica/Roadmap-Tecnico-Anual.md)
+
 - **Gestão Técnica:** Arquitetura, padrões, devops e infraestrutura.
+  - [Arquitetura de Sistemas: Princípios, Camadas e Tecnologias Essenciais](https://github.com/af-tech-manager/portfolio/blob/main/02-Gestao-Tecnica/Arquitetura-Sistemas.md)
+  - [Infraestrutura e Mapeamento de Ambientes: A Base para uma TI Resiliente](https://github.com/af-tech-manager/portfolio/blob/main/02-Gestao-Tecnica/Documentacao-Infraestrutura.md)
+  - [Padrões de Código: Guia de Estilo e Boas Práticas de Revisão Técnica](https://github.com/af-tech-manager/portfolio/blob/main/02-Gestao-Tecnica/Padroes-Codigo.md)
+  - [Pipeline CI/CD: Etapas, Ferramentas e Boas Práticas](https://github.com/af-tech-manager/portfolio/blob/main/02-Gestao-Tecnica/Pipeline-CI-CD.md)
+  - [Processo de Deploy: Checklists e Boas Práticas para Entregas Confiáveis](https://github.com/af-tech-manager/portfolio/blob/main/02-Gestao-Tecnica/Processo-Deploy.md)
+
 - **Gestão de Times:** Estruturação de squads, rituais, onboarding e carreira.
+  -
+
 - **Governança e Segurança:** Políticas de segurança, LGPD, compliance.
 - **Métricas e Indicadores:** KPIs técnicos, produtividade, DevOps.
 - **Inovação:** Pesquisa de novas tecnologias, IA, low-code.
