@@ -1,5 +1,5 @@
 # 🤖 Iniciativas com IA no Desenvolvimento de Software: Automação, Eficiência e Inovação
-Por: [ Alan Fernandes - Tech Manager ]
+Por: [ Alan Fernandes - Tech Manager ] :house: [Voltar para home](https://github.com/af-tech-manager/portfolio/blob/main/README.md)
 
 ## Introdução
 A Inteligência Artificial está transformando o ciclo de vida do software da especificação à manutenção. Ferramentas baseadas em IA permitem acelerar o desenvolvimento, detectar bugs com mais precisão, melhorar decisões de arquitetura e até prever gargalos antes que se tornem críticos.
@@ -121,3 +121,6 @@ Solução: Uso do CodiumAI integrado ao VSCode
 A Inteligência Artificial é hoje uma aliada estratégica da engenharia de software. Ao aplicar IA em etapas como codificação, testes, observabilidade e suporte, as equipes ganham escala, qualidade e velocidade. A chave é começar pequeno, medir os impactos e evoluir de forma iterativa. \
 \
 Mais do que modismo, IA no desenvolvimento é uma revolução prática e acessível.
+
+---
+:house: [Voltar para home](https://github.com/af-tech-manager/portfolio/blob/main/README.md)
