@@ -1,5 +1,5 @@
 # 🔍 Avaliação de Novas Tecnologias: Como Escolher Stacks e Estratégias de Testes para sua Realidade
-Por: [ Alan Fernandes - Tech Manager ]
+Por: [ Alan Fernandes - Tech Manager ] :house: [Voltar para home](https://github.com/af-tech-manager/portfolio/blob/main/README.md)
 
 ## Introdução
 Em um cenário de transformação digital acelerada, surgem constantemente novas linguagens, frameworks, ferramentas e abordagens de testes. Saber avaliar tecnologias com critérios objetivos é essencial para garantir escalabilidade, segurança, produtividade e aderência ao contexto do time e negócio.
@@ -101,3 +101,6 @@ Análise:
 Avaliar novas tecnologias com método é essencial para garantir que as escolhas técnicas estejam alinhadas à estratégia da empresa e à realidade do time. Uma stack bem escolhida, aliada a uma estratégia de testes robusta, reduz riscos, aumenta a qualidade e fortalece a capacidade de inovação. \
 \
 Tecnologia não deve ser só uma escolha técnica, ela deve servir ao negócio.
+
+---
+:house: [Voltar para home](https://github.com/af-tech-manager/portfolio/blob/main/README.md)
