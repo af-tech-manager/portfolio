@@ -4,7 +4,7 @@ Por: [ Alan Fernandes - Tech Manager ]
 ## Introdução
 A infraestrutura de TI é a espinha dorsal de qualquer organização digital. Ela sustenta os sistemas, plataformas, dados e aplicações críticas ao negócio. Porém, sem um mapeamento de ambientes estruturado e atualizado, é impossível garantir resiliência, segurança, eficiência e conformidade.
 
-Este artigo aborda as boas práticas, ferramentas e etapas para mapear ambientes de infraestrutura de forma clara, documentada e estratégica — seja em data centers tradicionais ou em ambientes híbridos e em nuvem.
+Este artigo aborda as boas práticas, ferramentas e etapas para mapear ambientes de infraestrutura de forma clara, documentada e estratégica seja em data centers tradicionais ou em ambientes híbridos e em nuvem.
 
 ## O que é Mapeamento de Ambientes?
 É o processo de identificação, categorização e documentação de todos os componentes que integram a infraestrutura de TI. Isso inclui:
@@ -22,11 +22,11 @@ Este artigo aborda as boas práticas, ferramentas e etapas para mapear ambientes
 - Integrações e fluxos de dados
 
 ## Por que mapear a infraestrutura?
-✅ Facilita a manutenção e o suporte técnico
-✅ Reduz riscos operacionais e de segurança
-✅ Acelera a resposta a incidentes e mudanças
-✅ Permite uma gestão de capacidade eficiente
-✅ Garante aderência à LGPD, ISO 27001 e outras normas
+✅ Facilita a manutenção e o suporte técnico \
+✅ Reduz riscos operacionais e de segurança \
+✅ Acelera a resposta a incidentes e mudanças \
+✅ Permite uma gestão de capacidade eficiente \
+✅ Garante aderência à LGPD, ISO 27001 e outras normas \
 ✅ Viabiliza migração para cloud ou reestruturações
 
 ## Classificação de Ambientes
