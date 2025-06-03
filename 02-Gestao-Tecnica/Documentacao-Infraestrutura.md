@@ -105,5 +105,6 @@ Identifique os tipos de dados tratados em cada ambiente:
 🌩️ Evite shadow IT — tudo precisa estar no mapa
 
 ## Conclusão
-Mapear ambientes é o primeiro passo para uma gestão de infraestrutura moderna, segura e escalável. 
+Mapear ambientes é o primeiro passo para uma gestão de infraestrutura moderna, segura e escalável. \
+\
 Sem esse mapeamento, não há controle sobre riscos, custos ou impactos técnicos. Com ele, a organização pode crescer com confiança, planejando upgrades, automações e migrações com muito mais previsibilidade.
