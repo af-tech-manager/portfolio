@@ -1,6 +1,6 @@
 # 🛣️ Roadmap Técnico Anual: Entregas Previstas e Marcos por Área Técnica
 
-*Por \[ ALAN FERNANDES - TECH MANAGER ]*
+Por: [ Alan Fernandes - Tech Manager ]
 
 ## Introdução
 
