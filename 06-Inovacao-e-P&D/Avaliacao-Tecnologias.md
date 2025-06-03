@@ -63,10 +63,14 @@ As abordagens de testes automatizados e manuais devem acompanhar a escolha tecno
 Legenda: 1 (baixo) a 5 (alto)
 
 ## 🧠 Quando adotar uma nova stack?
-✅ Quando há limitações reais de performance, manutenção ou produtividade na stack atual \
-✅ Quando o time tem experiência (ou quer investir em aprendizado justificado) \
-✅ Quando o produto exige novos paradigmas (ex: tempo real, microsserviços, ML/AI) \
-✅ Quando há ganhos mensuráveis no ciclo de vida do software \
+✅ Quando há limitações reais de performance, manutenção ou produtividade na stack atual 
+
+✅ Quando o time tem experiência (ou quer investir em aprendizado justificado) 
+
+✅ Quando o produto exige novos paradigmas (ex: tempo real, microsserviços, ML/AI) 
+
+✅ Quando há ganhos mensuráveis no ciclo de vida do software 
+
 ⛔ Evite adotar "a nova moda" sem considerar custos de transição, curva de aprendizado e impactos no negócio.
 
 ## 🌱 Exemplo Prático
