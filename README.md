@@ -32,12 +32,12 @@ Perfil no LinkedIn: https://www.linkedin.com/in/alfernanandes/
 
 
 - **Gestão de Times:** Estruturação de squads, rituais, onboarding e carreira.
-  - [Estrutura de Times: Squads, Chapters e Papéis em Organizações Tecnológicas](https://github.com/af-tech-manager/portfolio/blob/main/03-Gestao-de-Times/Estrutura-Times.md)
-  - [Onboarding em Times de Tecnologia: Checklist por Papel para Integração Rápida e Eficiente](https://github.com/af-tech-manager/portfolio/blob/main/03-Gestao-de-Times/Onboarding-Checklist.md)
-  - [Planos de Carreira em Times de TI: Trilhas, Níveis e Expectativas](https://github.com/af-tech-manager/portfolio/blob/main/03-Gestao-de-Times/Planos-Carreira.md)
-  - [Rituais Ágeis: Como Conduzir Daily, Planning, Review e Retrospective com Eficiência](https://github.com/af-tech-manager/portfolio/blob/main/03-Gestao-de-Times/Ritos-Agile.md)
   - [O Manifesto Ágil para Times de Tecnologia: Muito Além de um Documento](https://github.com/af-tech-manager/portfolio/blob/main/03-Gestao-de-Times/Manifesto-Agil-Para-Times-Tecnologia.md)
-    
+  - [Onboarding em Times de Tecnologia: Checklist por Papel para Integração Rápida e Eficiente](https://github.com/af-tech-manager/portfolio/blob/main/03-Gestao-de-Times/Onboarding-Checklist.md)  
+  - [Estrutura de Times: Squads, Chapters e Papéis em Organizações Tecnológicas](https://github.com/af-tech-manager/portfolio/blob/main/03-Gestao-de-Times/Estrutura-Times.md)
+  - [Rituais Ágeis: Como Conduzir Daily, Planning, Review e Retrospective com Eficiência](https://github.com/af-tech-manager/portfolio/blob/main/03-Gestao-de-Times/Ritos-Agile.md)
+  - [Planos de Carreira em Times de TI: Trilhas, Níveis e Expectativas](https://github.com/af-tech-manager/portfolio/blob/main/03-Gestao-de-Times/Planos-Carreira.md)
+
 
 - **Governança e Segurança:** Políticas de segurança, LGPD, compliance.
   - [Auditoria e Conformidade em TI: Checklist e Requisitos Essenciais](https://github.com/af-tech-manager/portfolio/blob/main/04-Governanca-e-Seguranca/Auditoria-e-Conformidade.md)
