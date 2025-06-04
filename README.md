@@ -36,6 +36,7 @@ Perfil no LinkedIn: https://www.linkedin.com/in/alfernanandes/
   - [Onboarding em Times de Tecnologia: Checklist por Papel para Integração Rápida e Eficiente](https://github.com/af-tech-manager/portfolio/blob/main/03-Gestao-de-Times/Onboarding-Checklist.md)
   - [Planos de Carreira em Times de TI: Trilhas, Níveis e Expectativas](https://github.com/af-tech-manager/portfolio/blob/main/03-Gestao-de-Times/Planos-Carreira.md)
   - [Rituais Ágeis: Como Conduzir Daily, Planning, Review e Retrospective com Eficiência](https://github.com/af-tech-manager/portfolio/blob/main/03-Gestao-de-Times/Ritos-Agile.md)
+  - [O Manifesto Ágil para Times de Tecnologia: Muito Além de um Documento](https://github.com/af-tech-manager/portfolio/blob/main/03-Gestao-de-Times/Manifesto-Agil-Para-Times-Tecnologia.md)
     
 
 - **Governança e Segurança:** Políticas de segurança, LGPD, compliance.
