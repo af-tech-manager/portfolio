@@ -20,13 +20,17 @@ O One-on-One (1:1) é uma reunião individual e periódica entre líder e lidera
 **“É menos sobre controle e mais sobre conexão.”**
 
 ## Por que isso é ainda mais importante em Tecnologia?
-👩‍💻 Ambientes técnicos tendem ao isolamento
+
+👩‍💻 **Ambientes técnicos tendem ao isolamento**
+
 Muitos profissionais de tecnologia trabalham de forma autônoma, com foco profundo. O 1:1 quebra esse ciclo e cria proximidade humana e organizacional.
 
-🔄 A evolução é constante
-Linguagens mudam, frameworks mudam — mas o feedback contínuo é o que impulsiona a evolução dos profissionais de verdade.
+🔄 **A evolução é constante**
 
-⚖️ Retenção começa pela escuta
+Linguagens mudam, frameworks mudam mas o feedback contínuo é o que impulsiona a evolução dos profissionais de verdade.
+
+⚖️ **Retenção começa pela escuta**
+
 Times que se sentem ouvidos, valorizados e direcionados têm mais engajamento e menor rotatividade.
 
 ## Tipos de Feedbacks
