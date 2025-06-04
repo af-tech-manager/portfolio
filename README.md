@@ -25,8 +25,8 @@ Perfil no LinkedIn: https://www.linkedin.com/in/alfernanandes/
 
 - **Gestão Técnica:** Arquitetura, Padrões, QA Qualidade de Software, Devops e Infraestrutura.
   - [Arquitetura de Sistemas: Princípios, Camadas e Tecnologias Essenciais](https://github.com/af-tech-manager/portfolio/blob/main/02-Gestao-Tecnica/Arquitetura-Sistemas.md)
-  - [Melhores Práticas em QA e Qualidade de Software](https://github.com/af-tech-manager/portfolio/blob/main/02-Gestao-Tecnica/Melhores-Praticas-QA-Qualidade-Software.md)
   - [Padrões de Código: Guia de Estilo e Boas Práticas de Revisão Técnica](https://github.com/af-tech-manager/portfolio/blob/main/02-Gestao-Tecnica/Padroes-Codigo.md)
+  - [Melhores Práticas em QA e Qualidade de Software](https://github.com/af-tech-manager/portfolio/blob/main/02-Gestao-Tecnica/Melhores-Praticas-QA-Qualidade-Software.md)
   - [Pipeline CI/CD: Etapas, Ferramentas e Boas Práticas](https://github.com/af-tech-manager/portfolio/blob/main/02-Gestao-Tecnica/Pipeline-CI-CD.md)
   - [Processo de Deploy: Checklists e Boas Práticas para Entregas Confiáveis](https://github.com/af-tech-manager/portfolio/blob/main/02-Gestao-Tecnica/Processo-Deploy.md)
   - [Infraestrutura e Mapeamento de Ambientes: A Base para uma TI Resiliente](https://github.com/af-tech-manager/portfolio/blob/main/02-Gestao-Tecnica/Documentacao-Infraestrutura.md) 
