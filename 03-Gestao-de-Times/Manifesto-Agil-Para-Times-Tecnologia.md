@@ -7,7 +7,7 @@ Criado em 2001 por um grupo de especialistas em desenvolvimento de software, o M
 Para times de tecnologia, o Manifesto Ágil é um guia para entregar valor com eficiência, adaptar-se com velocidade e colaborar com propósito.
 
 ## Os 4 Valores do Manifesto Ágil
-“Estamos descobrindo maneiras melhores de desenvolver software...” – Manifesto Ágil
+**“Estamos descobrindo maneiras melhores de desenvolver software...” – Manifesto Ágil**
 
 1️⃣ Indivíduos e interações mais que processos e ferramentas
 O sucesso não vem só do uso de ferramentas modernas, mas da conversa entre as pessoas certas. A confiança e a comunicação fluida entre devs, QA, PO e stakeholders são o verdadeiro diferencial.
