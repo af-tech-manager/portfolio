@@ -67,7 +67,7 @@ O líder técnico não é apenas gestor de tarefas. Ele é um desenvolvedor de p
 🎯 Impulsionar a performance com equilíbrio e empatia
 
 ## Conclusão
-A tecnologia muda rápido, mas as pessoas crescem com consistência. Feedbacks e one-on-ones não são burocracia — são ferramentas de liderança de alta performance. \
+A tecnologia muda rápido, mas as pessoas crescem com consistência. Feedbacks e one-on-ones não são burocracia são ferramentas de liderança de alta performance. \
 \
 Se você lidera pessoas, pergunte a si mesmo:
 \
