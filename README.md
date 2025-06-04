@@ -16,7 +16,7 @@ Perfil no LinkedIn: https://www.linkedin.com/in/alfernanandes/
 
 ---
 
-## 🤖 Estrutura do Frameworks - Gestão Estratégica e Operacional em times de tecnologia 
+## 🤖 Frameworks de Experiências - Gestão Estratégica e Operacional em times de tecnologia 
 - **Visão Estratégica:** Alinhamento com objetivos de negócio, planejamento técnico e operacional.
   - [Definindo OKRs Organizacionais em Times de Tecnologia](https://github.com/af-tech-manager/portfolio/blob/main/01-Visao-Estrategica/OKRs.md)
   - [Planejamento Estratégico em Times de Tecnologia e Operações](https://github.com/af-tech-manager/portfolio/blob/main/01-Visao-Estrategica/Planejamento-Estrategico.md)
