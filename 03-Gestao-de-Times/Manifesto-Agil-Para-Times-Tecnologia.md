@@ -2,7 +2,7 @@
 Por: [ Alan Fernandes - Tech Manager ] :house: [Voltar para home](https://github.com/af-tech-manager/portfolio/blob/main/README.md)
 
 ## Introdução
-Criado em 2001 por um grupo de especialistas em desenvolvimento de software, o Manifesto Ágil transformou a forma como produtos digitais são pensados, construídos e entregues. Mas ele não é só uma metodologia — é um mindset, um compromisso com pessoas, resultados e adaptabilidade.
+Criado em 2001 por um grupo de especialistas em desenvolvimento de software, o Manifesto Ágil transformou a forma como produtos digitais são pensados, construídos e entregues. Mas ele não é só uma metodologia é um mindset, um compromisso com pessoas, resultados e adaptabilidade.
 
 Para times de tecnologia, o Manifesto Ágil é um guia para entregar valor com eficiência, adaptar-se com velocidade e colaborar com propósito.
 
