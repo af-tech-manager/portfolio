@@ -54,6 +54,7 @@ Perfil no LinkedIn: https://www.linkedin.com/in/alfernanandes/
   - [Protótipos Low-Code: Como Experimentar Rápido e Validar com Eficiência](https://github.com/af-tech-manager/portfolio/tree/main/06-Inovacao-e-P%26D/Prototipos-LowCode)
   - [Iniciativas com IA no Desenvolvimento de Software: Automação, Eficiência e Inovação](https://github.com/af-tech-manager/portfolio/blob/main/06-Inovacao-e-P%26D/AI-Iniciativas-Exploratorias.md)
   - [Avaliação de Novas Tecnologias: Como Escolher Stacks e Estratégias de Testes para sua Realidade](https://github.com/af-tech-manager/portfolio/blob/main/06-Inovacao-e-P%26D/Avaliacao-Tecnologias.md)
+  - [Escalando o Desenvolvimento de Sistemas com Design System](https://github.com/af-tech-manager/portfolio/blob/main/06-Inovacao-e-P&D/Escalabilidade-Design-System.md)
 
 
 ## Licença - Termo de uso e responsabilidade com Direitos Autorais.
