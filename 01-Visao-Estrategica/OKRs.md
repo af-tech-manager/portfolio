@@ -1,6 +1,7 @@
 # 🎯 Definindo OKRs Organizacionais em Times de Tecnologia
 
-Por: [ Alan Fernandes - Tech Manager ] :house: [Voltar para home](https://github.com/af-tech-manager/portfolio/blob/main/README.md)
+Por: [ Alan Fernandes - Tech Manager ]
+:house: [Voltar para home](https://github.com/af-tech-manager/portfolio/blob/main/README.md)
 
 ## Introdução
 
