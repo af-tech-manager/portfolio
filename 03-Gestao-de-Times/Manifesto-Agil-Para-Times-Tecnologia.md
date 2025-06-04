@@ -22,29 +22,29 @@ Em vez de se apegar ao escopo fechado, o time ágil colabora com o cliente em ci
 Tecnologia muda, o mercado muda, e o cliente muda. Times ágeis abraçam a mudança como uma vantagem, não como uma falha.
 
 ## Os 12 Princípios Ágeis (resumidos para aplicação em times)
-1. Entregar valor continuamente e cedo
+**1.** Entregar valor continuamente e cedo
 
-2. Aceitar mudanças, mesmo em fases avançadas
+**2.** Aceitar mudanças, mesmo em fases avançadas
 
-3. Entregar software funcional frequentemente
+**3.** Entregar software funcional frequentemente
 
-4. Times de negócio e tecnologia trabalhando juntos
+**4.** Times de negócio e tecnologia trabalhando juntos
 
-5. Confiar e empoderar os times
+**5.** Confiar e empoderar os times
 
-6. Comunicação face a face é a melhor forma de troca
+**6.** Comunicação face a face é a melhor forma de troca
 
-7. Software funcional é a principal medida de progresso
+**7.** Software funcional é a principal medida de progresso
 
-8. Manter ritmo sustentável de desenvolvimento
+**8.** Manter ritmo sustentável de desenvolvimento
 
-9. Atenção contínua à excelência técnica
+**9.** Atenção contínua à excelência técnica
 
-10. Simplicidade é essencial
+**10.** Simplicidade é essencial
 
-11. Times auto-organizados produzem melhores soluções
+**11.** Times auto-organizados produzem melhores soluções
 
-12. Refletir e ajustar continuamente
+**12.** Refletir e ajustar continuamente
 
 ## Por que isso importa para o time de Tecnologia?
 🔁 Menos retrabalho, mais aprendizado
