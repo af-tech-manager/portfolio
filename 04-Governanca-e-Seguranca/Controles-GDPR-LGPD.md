@@ -41,47 +41,47 @@ Tanto o GDPR quanto a LGPD asseguram aos titulares os seguintes direitos:
 - Informação sobre compartilhamento
 
 ## Boas Práticas de Privacidade para Equipes de TI e Produto
-✅ 1. Privacy by Design
+✅ **1. Privacy by Design**
 - Inclua preocupações com privacidade desde a concepção de produtos e sistemas.
 
 - Minimize a coleta de dados ao essencial (princípio da minimização).
 
-✅ 2. Mapeamento e inventário de dados
+✅ **2. Mapeamento e inventário de dados**
 - Identifique todos os dados pessoais coletados, armazenados e compartilhados.
 
 - Classifique os dados: sensíveis, financeiros, biométricos, etc.
 
 - Documente bases legais para o tratamento (consentimento, legítimo interesse, obrigação legal, etc.).
 
-✅ 3. Consentimento claro e granular
+✅ **3. Consentimento claro e granular**
 - Solicite consentimento de forma clara, destacada e separada de outros termos.
 
 - Permita que o titular escolha quais dados compartilhar.
 
 - Registre e versiona todos os consentimentos dados.
 
-✅ 4. Gestão de ciclo de vida dos dados
+✅ **4. Gestão de ciclo de vida dos dados**
 - Estabeleça regras de retenção e descarte de dados.
 
 - Automatize exclusões após períodos definidos (ex: 12 ou 24 meses).
 
 - Garanta que backups também sigam as políticas de privacidade.
 
-✅ 5. Segurança da Informação
+✅ **5. Segurança da Informação**
 - Utilize criptografia, autenticação multifator (MFA), controle de acessos.
 
 - Registre logs de acesso e alterações a dados pessoais.
 
 - Realize testes de segurança, pentests e auditorias regulares.
 
-✅ 6. Canal de atendimento ao titular
+✅ **6. Canal de atendimento ao titular**
 - Crie um canal específico para solicitações de titulares (acesso, exclusão, correção).
 
 - Defina um fluxo e prazos de resposta (em até 15 dias para LGPD).
 
 - Treine o time para lidar com pedidos sensíveis e urgentes.
 
-✅ 7. Treinamento e cultura
+✅ **7. Treinamento e cultura**
 - Realize capacitações sobre proteção de dados com todas as áreas da empresa.
 
 - Crie uma cultura de respeito à privacidade em toda a organização.
