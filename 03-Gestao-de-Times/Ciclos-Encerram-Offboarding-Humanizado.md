@@ -1,4 +1,4 @@
-# 🔁 Ciclos se Encerram: Como Humanizar o Offboarding em Times de Tecnologia?
+# 🔁 Ciclos se Encerram: Como Humanizar o Offboarding em Times de Tecnologia
 Por: [ Alan Fernandes - Tech Maanger ] :house: [Voltar para home](https://github.com/af-tech-manager/portfolio/blob/main/README.md)
 
 ## Introdução
