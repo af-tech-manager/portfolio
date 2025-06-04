@@ -51,13 +51,16 @@ Para times de tecnologia, o Manifesto Ágil é um guia para entregar valor com e
 **12.** Refletir e ajustar continuamente
 
 ## Por que isso importa para o time de Tecnologia?
-🔁 Menos retrabalho, mais aprendizado
+🔁 **Menos retrabalho, mais aprendizado**
+
 Com ciclos curtos e feedback constante, a equipe aprende mais rápido e evita entregar funcionalidades sem valor.
 
-⚙️ Mais autonomia, menos microgerenciamento
+⚙️ **Mais autonomia, menos microgerenciamento**
+
 Um time ágil decide como entregar, e o gestor atua como facilitador não como chefe de tarefas.
 
-📈 Foco no impacto real
+📈 **Foco no impacto real**
+
 Não é sobre entregar mais código, é sobre resolver problemas reais com qualidade e rapidez.
 
 ## Conclusão
