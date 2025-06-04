@@ -23,7 +23,7 @@ Perfil no LinkedIn: https://www.linkedin.com/in/alfernanandes/
   - [Roadmap Técnico Anual: Entregas Previstas e Marcos por Área Técnica](https://github.com/af-tech-manager/portfolio/blob/main/01-Visao-Estrategica/Roadmap-Tecnico-Anual.md) 
 
 
-- **Gestão Técnica:** Arquitetura, padrões, devops e infraestrutura.
+- **Gestão Técnica:** Arquitetura, Padrões, Devops e Infraestrutura.
   - [Arquitetura de Sistemas: Princípios, Camadas e Tecnologias Essenciais](https://github.com/af-tech-manager/portfolio/blob/main/02-Gestao-Tecnica/Arquitetura-Sistemas.md)
   - [Infraestrutura e Mapeamento de Ambientes: A Base para uma TI Resiliente](https://github.com/af-tech-manager/portfolio/blob/main/02-Gestao-Tecnica/Documentacao-Infraestrutura.md)
   - [Padrões de Código: Guia de Estilo e Boas Práticas de Revisão Técnica](https://github.com/af-tech-manager/portfolio/blob/main/02-Gestao-Tecnica/Padroes-Codigo.md)
@@ -31,7 +31,7 @@ Perfil no LinkedIn: https://www.linkedin.com/in/alfernanandes/
   - [Processo de Deploy: Checklists e Boas Práticas para Entregas Confiáveis](https://github.com/af-tech-manager/portfolio/blob/main/02-Gestao-Tecnica/Processo-Deploy.md) 
 
 
-- **Gestão de Times:** Manifesto Ágil, Estruturação de squads, rituais, onboarding, carreira e offboarding.
+- **Gestão de Times:** Manifesto Ágil, Estruturação de squads, Rituais, Onboarding, Carreira e Offboarding.
   - [O Manifesto Ágil para Times de Tecnologia: Muito Além de um Documento](https://github.com/af-tech-manager/portfolio/blob/main/03-Gestao-de-Times/Manifesto-Agil-Para-Times-Tecnologia.md)
   - [Onboarding em Times de Tecnologia: Checklist por Papel para Integração Rápida e Eficiente](https://github.com/af-tech-manager/portfolio/blob/main/03-Gestao-de-Times/Onboarding-Checklist.md)  
   - [Estrutura de Times: Squads, Chapters e Papéis em Organizações Tecnológicas](https://github.com/af-tech-manager/portfolio/blob/main/03-Gestao-de-Times/Estrutura-Times.md)
@@ -41,13 +41,13 @@ Perfil no LinkedIn: https://www.linkedin.com/in/alfernanandes/
   - [Ciclos se Encerram: Como Humanizar o Offboarding em Times de Tecnologia](https://github.com/af-tech-manager/portfolio/blob/main/03-Gestao-de-Times/Ciclos-Encerram-Offboarding-Humanizado.md)
 
 
-- **Governança e Segurança:** Políticas de segurança, LGPD, compliance.
+- **Governança e Segurança:** Políticas de Segurança, LGPD, Compliance.
   - [Auditoria e Conformidade em TI: Checklist e Requisitos Essenciais](https://github.com/af-tech-manager/portfolio/blob/main/04-Governanca-e-Seguranca/Auditoria-e-Conformidade.md)
   - [GDPR e LGPD: Boas Práticas de Privacidade para Empresas de Tecnologia](https://github.com/af-tech-manager/portfolio/blob/main/04-Governanca-e-Seguranca/Controles-GDPR-LGPD.md)
   - [Políticas de Segurança: Controles Essenciais e Práticas de Conformidade](https://github.com/af-tech-manager/portfolio/blob/main/04-Governanca-e-Seguranca/Politicas-Seguranca.md)
   
  
-- **Métricas e Indicadores:** KPIs técnicos, produtividade, DevOps.
+- **Métricas e Indicadores:** KPIs técnicos, Produtividade, DevOps.
   - [KPIs e Métricas em Times Ágeis: Como Medir, Analisar e Evoluir com Retrospectivas](https://github.com/af-tech-manager/portfolio/blob/main/05-KPIs-e-Metricas/Analise-Retrospectiva.md)
   - [Dashboards DevOps: Indicadores, Modelos e Ferramentas para Monitoramento de Entregas e Operações](https://github.com/af-tech-manager/portfolio/blob/main/05-KPIs-e-Metricas/Dashboards-DevOps.md)
   - [Métricas de Engenharia de Software: Lead Time, Cycle Time, Bugs e Indicadores de Qualidade](https://github.com/af-tech-manager/portfolio/blob/main/05-KPIs-e-Metricas/EngSoft-Metricas.md)
