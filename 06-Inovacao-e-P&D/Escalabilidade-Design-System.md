@@ -1,5 +1,5 @@
 # 🚀 Escalando o Desenvolvimento de Sistemas com Design System 
-:house: [Voltar para home](https://github.com/af-tech-manager/portfolio/blob/main/README.md)
+Por: [ Alan Fernandes - Tech Manager ] :house: [Voltar para home](https://github.com/af-tech-manager/portfolio/blob/main/README.md)
 
 # Introdução
 À medida que produtos digitais crescem, a consistência visual, a eficiência do time e a escalabilidade da entrega tornam-se desafios reais. É nesse contexto que o Design System se destaca como uma ferramenta estratégica: não apenas para designers, mas para desenvolvedores, gerentes de produto e líderes técnicos.
