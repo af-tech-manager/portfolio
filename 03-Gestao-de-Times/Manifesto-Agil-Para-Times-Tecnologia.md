@@ -11,19 +11,19 @@ Para times de tecnologia, o Manifesto Ágil é um guia para entregar valor com e
 
 1️⃣ **Indivíduos e interações mais que processos e ferramentas**
 
-O sucesso não vem só do uso de ferramentas modernas, mas da conversa entre as pessoas certas. A confiança e a comunicação fluida entre devs, QA, PO e stakeholders são o verdadeiro diferencial.
+- O sucesso não vem só do uso de ferramentas modernas, mas da conversa entre as pessoas certas. A confiança e a comunicação fluida entre devs, QA, PO e stakeholders são o verdadeiro diferencial.
 
 2️⃣ **Software em funcionamento mais que documentação abrangente**
 
-Documentar é importante, mas valor real está no código que roda, não em dezenas de páginas que ninguém lê. Entregue rápido, entregue funcionando.
+- Documentar é importante, mas valor real está no código que roda, não em dezenas de páginas que ninguém lê. Entregue rápido, entregue funcionando.
 
 3️⃣ **Colaboração com o cliente mais que negociação de contratos**
 
-Em vez de se apegar ao escopo fechado, o time ágil colabora com o cliente em ciclos curtos, com entregas incrementais e feedback real.
+- Em vez de se apegar ao escopo fechado, o time ágil colabora com o cliente em ciclos curtos, com entregas incrementais e feedback real.
 
 4️⃣ **Responder a mudanças mais que seguir um plano**
 
-Tecnologia muda, o mercado muda, e o cliente muda. Times ágeis abraçam a mudança como uma vantagem, não como uma falha.
+- Tecnologia muda, o mercado muda, e o cliente muda. Times ágeis abraçam a mudança como uma vantagem, não como uma falha.
 
 ## Os 12 Princípios Ágeis (resumidos para aplicação em times)
 **1.** Entregar valor continuamente e cedo
