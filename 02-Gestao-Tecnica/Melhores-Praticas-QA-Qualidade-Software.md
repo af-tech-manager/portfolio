@@ -38,7 +38,7 @@ Ferramentas: **JMeter, OWASP ZAP, SonarQube**
 Evitar testes em produção sempre que possível. Criar ambientes controlados (homologação, staging) para simular cenários reais.
 
 ## 7. Métricas e Monitoramento de Qualidade
-- Acompanhar indicadores como:
+Acompanhar indicadores como:
 
 - Taxa de defeitos por sprint
 
