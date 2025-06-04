@@ -1,5 +1,5 @@
 # 👥 Estrutura de Times: Squads, Chapters e Papéis em Organizações Tecnológicas
-Por: [ Alan Fernandes - Tech Maanger ] :house: [Voltar para home](https://github.com/af-tech-manager/portfolio/blob/main/README.md)
+Por: [ Alan Fernandes - Tech Manager ] :house: [Voltar para home](https://github.com/af-tech-manager/portfolio/blob/main/README.md)
 
 ## Introdução
 Com a crescente adoção de metodologias ágeis e o foco em entregas rápidas e iterativas, muitas empresas migraram de estruturas tradicionais para modelos mais flexíveis e orientados a produtos. Um dos modelos mais populares é inspirado no Spotify Model, com squads, chapters, guildas e tribes e adaptado por diversas organizações mundo afora.
