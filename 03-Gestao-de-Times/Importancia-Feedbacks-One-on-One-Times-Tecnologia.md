@@ -39,21 +39,21 @@ Times que se sentem ouvidos, valorizados e direcionados têm mais engajamento e 
 
 
 ## Como conduzir um One-on-One eficiente?
-1. Agende com recorrência (quinzenal ou mensal)
+**1.** Agende com recorrência (quinzenal ou mensal)
 
-2. Tenha uma pauta aberta, mas com direcionamento:
+**2.** Tenha uma pauta aberta, mas com direcionamento:
 
-- Como você está se sentindo?
+  - Como você está se sentindo?
 
-- Tem algo que está te impedindo de entregar mais valor?
+  - Tem algo que está te impedindo de entregar mais valor?
 
-3. O que posso fazer para te apoiar melhor?
+**3.** O que posso fazer para te apoiar melhor?
 
-4. Escute mais do que fale
+**4.** Escute mais do que fale
 
-5. Acompanhe ações combinadas
+**5.** Acompanhe ações combinadas
 
-6. Crie confiança, não julgamento
+**6.** Crie confiança, não julgamento
 
 ## O papel do Tech Manager nos 1:1
 O líder técnico não é apenas gestor de tarefas. Ele é um desenvolvedor de pessoas. O one-on-one é o seu principal instrumento para:
