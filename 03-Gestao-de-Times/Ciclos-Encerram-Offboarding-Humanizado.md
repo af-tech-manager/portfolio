@@ -21,7 +21,7 @@ Offboarding é o conjunto de ações realizadas para encerrar a jornada de um co
 
 ## Por que humanizar o offboarding?
 ✅ 1. Fortalece a cultura organizacional
-A forma como a empresa se despede diz muito sobre como valoriza as pessoas — mesmo fora da folha de pagamento.
+A forma como a empresa se despede diz muito sobre como valoriza as pessoas mesmo fora da folha de pagamento.
 
 ✅ 2. Garante feedbacks valiosos
 Quem está saindo pode oferecer insights sinceros sobre falhas, aprendizados e melhorias de processos.
