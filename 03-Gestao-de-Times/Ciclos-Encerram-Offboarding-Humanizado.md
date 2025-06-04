@@ -1,5 +1,5 @@
 # 🔁 Ciclos se Encerram: Como Humanizar o Offboarding em Times de Tecnologia
-Por: [ Alan Fernandes - Tech Mananger ] :house: [Voltar para home](https://github.com/af-tech-manager/portfolio/blob/main/README.md)
+Por: [ Alan Fernandes - Tech Manager ] :house: [Voltar para home](https://github.com/af-tech-manager/portfolio/blob/main/README.md)
 
 ## Introdução
 Em qualquer jornada profissional, chegadas e partidas fazem parte do ciclo natural. Em tecnologia, onde o mercado é dinâmico e as relações se constroem em ritmo acelerado, o momento do desligamento, o offboarding é tão importante quanto o onboarding.
