@@ -31,7 +31,7 @@ Perfil no LinkedIn: https://www.linkedin.com/in/alfernanandes/
   - [Processo de Deploy: Checklists e Boas Práticas para Entregas Confiáveis](https://github.com/af-tech-manager/portfolio/blob/main/02-Gestao-Tecnica/Processo-Deploy.md) 
 
 
-- **Gestão de Times:** Manifesto Ágil, Estruturação de squads, rituais, onboarding e carreira.
+- **Gestão de Times:** Manifesto Ágil, Estruturação de squads, rituais, onboarding, carreira e offboarding.
   - [O Manifesto Ágil para Times de Tecnologia: Muito Além de um Documento](https://github.com/af-tech-manager/portfolio/blob/main/03-Gestao-de-Times/Manifesto-Agil-Para-Times-Tecnologia.md)
   - [Onboarding em Times de Tecnologia: Checklist por Papel para Integração Rápida e Eficiente](https://github.com/af-tech-manager/portfolio/blob/main/03-Gestao-de-Times/Onboarding-Checklist.md)  
   - [Estrutura de Times: Squads, Chapters e Papéis em Organizações Tecnológicas](https://github.com/af-tech-manager/portfolio/blob/main/03-Gestao-de-Times/Estrutura-Times.md)
