@@ -34,7 +34,7 @@ Este artigo apresenta um guia prático de onboarding com checklists por papel, d
 
 - Adição em canais Slack/Teams e repositórios de documentação.
 
-### Primeira semana
+### Primeira semana:
 
 - Apresentação ao Tech Lead e squad.
 
@@ -56,7 +56,7 @@ Este artigo apresenta um guia prático de onboarding com checklists por papel, d
 
 - Links para pesquisas anteriores e mapa de jornadas.
 
-### Primeira semana
+### Primeira semana:
 
 - Apresentação com o PO e PM sobre o roadmap.
 
@@ -74,7 +74,7 @@ Este artigo apresenta um guia prático de onboarding com checklists por papel, d
 
 - Credenciais para ambientes de homologação
 
-### Primeira semana
+### Primeira semana:
 
 - Revisão do pipeline de CI/CD e estratégias de testes.
 
@@ -92,7 +92,7 @@ Este artigo apresenta um guia prático de onboarding com checklists por papel, d
 
 - Mapeamento dos stakeholders.
 
-### Primeira semana
+### Primeira semana:
 
 - Alinhamento com os principais projetos em andamento.
 
@@ -103,11 +103,12 @@ Este artigo apresenta um guia prático de onboarding com checklists por papel, d
 - Definição de metas e entregáveis com o time de produto.
 
 ## 🎯 Product Owner (PO)
-Antes do primeiro dia:
+
+### Antes do primeiro dia:
 
 Conta nos sistemas de analytics, CRM e feedbacks (ex: Mixpanel, Hotjar).
 
-### Primeira semana
+### Primeira semana:
 
 - Apresentação das personas e jornada do cliente.
 
