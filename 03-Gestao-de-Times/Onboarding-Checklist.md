@@ -24,7 +24,7 @@ Este artigo apresenta um guia prático de onboarding com checklists por papel, d
 
 ## 👨‍💻 Desenvolvedor(a) de Software
 
-Antes do primeiro dia:
+### Antes do primeiro dia:
 
 - Conta de e-mail corporativa.
 
@@ -48,7 +48,7 @@ Antes do primeiro dia:
 
 ## 🎨 Product Designer / UX
 
-Antes do primeiro dia:
+### Antes do primeiro dia:
 
 - Conta no Figma, Zeplin, Miro ou ferramentas equivalentes.
 
@@ -68,7 +68,7 @@ Antes do primeiro dia:
 
 ## 🧪 QA / Tester
 
-Antes do primeiro dia:
+### Antes do primeiro dia:
 
 - Acesso às ferramentas de testes (TestRail, Postman, Selenium).
 
@@ -86,7 +86,7 @@ Antes do primeiro dia:
 
 ## 📅 Gerente de Projetos (PMO / Project Manager)
 
-Antes do primeiro dia:
+### Antes do primeiro dia:
 
 - Acesso ao sistema de gestão de projetos (Jira, Confluence, etc.)
 
