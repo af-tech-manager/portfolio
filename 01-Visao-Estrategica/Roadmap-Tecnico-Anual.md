@@ -4,7 +4,9 @@ Por: [ Alan Fernandes - Tech Manager ] :house: [Voltar para home](https://github
 
 ## Introdução
 
-O sucesso da área de Tecnologia não está apenas em executar com eficiência, mas em **planejar com clareza**. Para isso, o **Roadmap Técnico Anual** é uma ferramenta fundamental: ele oferece uma visão consolidada das entregas previstas, prioridades técnicas e marcos estratégicos para os próximos 12 meses.
+O sucesso da área de Tecnologia não está apenas em executar com eficiência, mas em **planejar com clareza**. 
+
+Para isso, o **Roadmap Técnico Anual** é uma ferramenta fundamental: Ele oferece uma visão consolidada das entregas previstas, prioridades técnicas e marcos estratégicos para os próximos 12 meses.
 
 Mais do que um cronograma, o roadmap conecta **visão de produto**, **infraestrutura**, **segurança**, **automação**, **dados** e **inovação**, possibilitando que cada área técnica atue de forma coordenada e alinhada aos objetivos da organização.
 
@@ -14,11 +16,11 @@ Mais do que um cronograma, o roadmap conecta **visão de produto**, **infraestru
 
 Um **roadmap técnico anual** é um plano visual que descreve:
 
-* As **iniciativas e entregas-chave** de cada área técnica
-* Os **períodos estimados de execução**
-* Os **marcos críticos** (milestones)
-* As **dependências entre áreas**
-* E os **impactos estratégicos esperados**
+* As **iniciativas e entregas-chave** de cada área técnica.
+* Os **períodos estimados de execução**.
+* Os **marcos críticos** (milestones).
+* As **dependências entre áreas**.
+* E os **impactos estratégicos esperados**.
 
 É uma ferramenta de **gestão, comunicação e alinhamento** usada por CTOs, Tech Leads, Product Managers e times executivos.
 
@@ -92,9 +94,13 @@ Um **roadmap técnico anual** é um plano visual que descreve:
 ## Dicas para Construir um Roadmap Técnico Eficiente
 
 * 🎯 **Comece pelo propósito estratégico**
+
 * 📅 **Trabalhe com ciclos trimestrais**
+
 * ⚙️ **Envie para cada time preencher suas entregas planejadas**
+
 * 🚥 **Identifique marcos e dependências entre squads**
+
 * 🧭 **Reavalie e ajuste trimestralmente (Rolling Planning)**
 
 
