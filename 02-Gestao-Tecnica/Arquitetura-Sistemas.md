@@ -10,11 +10,11 @@ Uma boa arquitetura vai além da estrutura técnica ela impacta diretamente a ma
 ## O que é Arquitetura de Sistemas?
 É o conjunto de decisões estruturais e tecnológicas que definem:
 
-- Como o sistema será organizado em partes funcionais (camadas, módulos, serviços)
+- Como o sistema será organizado em partes funcionais (camadas, módulos, serviços).
 
-- Como as partes interagem entre si (comunicação, protocolos, APIs)
+- Como as partes interagem entre si (comunicação, protocolos, APIs).
 
-- Quais são os padrões e boas práticas que guiarão o desenvolvimento
+- Quais são os padrões e boas práticas que guiarão o desenvolvimento.
 
 ## Princípios Fundamentais
 ### 1. Separação de responsabilidades (Separation of Concerns)
@@ -39,7 +39,7 @@ Uma boa arquitetura vai além da estrutura técnica ela impacta diretamente a ma
 
 ### 6. Observabilidade
 
-- Logs, métricas e rastreamento distribuído são essenciais para detectar e resolver problemas
+- Logs, métricas e rastreamento distribuído são essenciais para detectar e resolver problemas.
 
 # Camadas Típicas de uma Arquitetura
 A estrutura mais comum segue o modelo em camadas, como ilustrado abaixo:
@@ -47,41 +47,41 @@ A estrutura mais comum segue o modelo em camadas, como ilustrado abaixo:
 ### 1. Camada de Apresentação (Front-end)
 Responsável pela interação com o usuário. Pode ser web, mobile ou interface gráfica.
 
-- Tecnologias comuns: React, Angular, Vue.js, Flutter
+- **Tecnologias comuns:** React, Angular, Vue.js, Flutter.
 
 ### 2. Camada de Aplicação (Back-end)
 Contém a lógica de negócio, coordena fluxos, validações e integrações com serviços.
 
-- Tecnologias comuns: Java (Spring), .NET, Node.js, Python (Django/FastAPI), Go
+- **Tecnologias comuns:** Java (Spring), .NET, Node.js, Python (Django/FastAPI), Go.
 
 ### 3. Camada de Serviços / APIs
 Expõe funcionalidades para consumo interno ou externo, geralmente via REST ou GraphQL.
 
-- Padrões comuns: RESTful, GraphQL, gRPC, WebSockets
+- **Padrões comuns:** RESTful, GraphQL, gRPC, WebSockets.
 
 ### 4. Camada de Persistência (Banco de Dados)
 Armazena os dados estruturados e não estruturados da aplicação.
 
-- Tecnologias comuns: PostgreSQL, MySQL, MongoDB, Redis, Cassandra
+- **Tecnologias comuns:** PostgreSQL, MySQL, MongoDB, Redis, Cassandra.
 
 ### 5. Camada de Integração
 Permite comunicação com sistemas externos (ERPs, CRMs, serviços de terceiros).
 
-- Meios comuns: APIs externas, filas (Kafka, RabbitMQ), ESB (Enterprise Service Bus)
+- **Meios comuns:** APIs externas, filas (Kafka, RabbitMQ), ESB (Enterprise Service Bus).
 
 ### 6. Camada de Infraestrutura
 Responsável pela entrega, escalabilidade e operação do sistema.
 
-- Tecnologias comuns: Kubernetes, Docker, Terraform, Jenkins, AWS, Azure, GCP
+- **Tecnologias comuns:** Kubernetes, Docker, Terraform, Jenkins, AWS, Azure, GCP.
 
 # Modelos Arquiteturais Comuns
-- Monolito modular – Tudo em uma única aplicação, mas com separação interna por domínios
+- **Monolito modular:** Tudo em uma única aplicação, mas com separação interna por domínios.
 
-- Microsserviços – Cada componente é um serviço independente, com ciclo de vida próprio
+- **Microsserviços:** Cada componente é um serviço independente, com ciclo de vida próprio.
 
-- Serverless / Functions as a Service (FaaS) – Execução sob demanda, sem servidor dedicado
+- **Serverless:** Functions as a Service (FaaS) – Execução sob demanda, sem servidor dedicado.
 
-- Event-driven Architecture (EDA) – A comunicação entre módulos ocorre por eventos (Kafka, SNS, SQS)
+- **Event-driven Architecture (EDA):** A comunicação entre módulos ocorre por eventos (Kafka, SNS, SQS).
 
 # Exemplos Visuais de Arquitetura
 
@@ -94,18 +94,18 @@ Responsável pela entrega, escalabilidade e operação do sistema.
 
 
 # Boas Práticas
-- Documente decisões arquiteturais com ADR (Architectural Decision Records)
+- Documente decisões arquiteturais com ADR (Architectural Decision Records).
 
-- Use diagramas C4 ou UML para comunicação visual
+- Use diagramas C4 ou UML para comunicação visual.
 
-- Padronize APIs com OpenAPI/Swagger
+- Padronize APIs com OpenAPI/Swagger.
 
-- Automatize builds e deploys com pipelines CI/CD
+- Automatize builds e deploys com pipelines CI/CD.
 
-- Invista em testes de performance e segurança automatizados
+- Invista em testes de performance e segurança automatizados.
 
 # Conclusão
-A arquitetura de sistemas é muito mais do que “escolher tecnologias”. É sobre tomar decisões conscientes, com foco em sustentabilidade técnica e impacto de longo prazo. Ela precisa estar alinhada aos objetivos do negócio, ser documentada, compreensível e evolutiva.
+A arquitetura de sistemas é muito mais do que **“escolher tecnologias”**. É sobre tomar decisões conscientes, com foco em sustentabilidade técnica e impacto de longo prazo. Ela precisa estar alinhada aos objetivos do negócio, ser documentada, compreensível e evolutiva.
 
 A escolha certa de arquitetura pode acelerar a inovação, reduzir custos e tornar a equipe mais produtiva.
 
