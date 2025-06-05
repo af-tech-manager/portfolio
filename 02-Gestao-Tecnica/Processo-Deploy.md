@@ -11,95 +11,99 @@ Para mitigar riscos, os times modernos adotam processos bem definidos, automatiz
 
 Ele pode ser:
 
-Manual: baseado em scripts e passos documentados
+- **Manual:** Baseado em scripts e passos documentados.
 
-- Semiautomatizado: com pipelines que dependem de gatilhos manuais
+- **Semiautomatizado:** Com pipelines que dependem de gatilhos manuais.
 
-- Totalmente automatizado: via pipelines CI/CD, com validações e rollback automático
+- **Totalmente automatizado:** Via pipelines CI/CD, com validações e rollback automático.
 
 ## Etapas Comuns do Processo de Deploy
 ### 1. Preparação do ambiente
 
-- Validar infraestrutura, variáveis de ambiente e configurações
+- Validar infraestrutura, variáveis de ambiente e configurações.
 
 ### 2. Build da aplicação
 
-- Compilação do código e empacotamento (ex: Docker image, .jar, .zip)
+- Compilação do código e empacotamento (ex: Docker image, .jar, .zip).
 
 ### 3. Execução de testes
 
-- Unitários, integração, regressão e smoke tests
+- Unitários, integração, regressão e smoke tests.
 
 ### 4. Validação da versão
 
-- Conferência de versão, changelog e revisão final
+- Conferência de versão, changelog e revisão final.
 
 ### 5. Deploy em ambiente alvo
 
-- Homologação ou Produção
+- Homologação ou Produção.
 
 ### 6. Verificações pós-deploy
 
-- Testes de sanidade, logs, monitoramento, integridade dos dados
+- Testes de sanidade, logs, monitoramento, integridade dos dados.
 
 ## 7. Notificações
 
-- Informar stakeholders e registrar a operação
+- Informar stakeholders e registrar a operação.
 
-- Plano de rollback
+- Plano de rollback.
 
-- Plano acionável em caso de falha
+- Plano acionável em caso de falha.
 
 ## Checklist Operacional de Deploy
-✅ Antes do Deploy
-- Código revisado e aprovado
 
-- Pipeline de build/testes executado com sucesso
+✅ Antes do Deploy.
 
-- Nova versão documentada no changelog
+- Código revisado e aprovado.
 
-- Backup dos dados sensíveis realizado
+- Pipeline de build/testes executado com sucesso.
 
-- Plano de rollback definido
+- Nova versão documentada no changelog.
 
-- Ambiente de destino validado (disco, rede, dependências)
+- Backup dos dados sensíveis realizado.
+
+- Plano de rollback definido.
+
+- Ambiente de destino validado (disco, rede, dependências).
 
 ## 🚀 Durante o Deploy
-- Executar pipeline de deploy ou script documentado
+- Executar pipeline de deploy ou script documentado.
 
-- Monitorar logs em tempo real
+- Monitorar logs em tempo real.
 
-- Validar integridade dos dados migrados (se aplicável)
+- Validar integridade dos dados migrados (se aplicável).
 
 ## 🔍 Após o Deploy
-- Executar testes de sanidade (smoke tests)
+- Executar testes de sanidade (smoke tests).
 
-- Confirmar funcionamento de funcionalidades críticas
+- Confirmar funcionamento de funcionalidades críticas.
 
--  Verificar métricas e alertas
+-  Verificar métricas e alertas.
 
- - Atualizar o status no dashboard de versões
+ - Atualizar o status no dashboard de versões.
 
- - Notificar times impactados
+ - Notificar times impactados.
 
 ## Boas Práticas
-- 🧪 Use ambientes separados: DEV, HML, PRD, com separação de dados e permissões
 
-- 🧰 Automatize sempre que possível: pipelines, validações, rollback
+🧪 Use ambientes separados: DEV, HML, PRD, com separação de dados e permissões.
 
-- 🧾 Documente o processo: scripts, variáveis, dependências, fluxos
+🧰 Automatize sempre que possível: pipelines, validações, rollback.
 
-- 🔄 Implemente estratégias de deploy seguro:
+🧾 Documente o processo: scripts, variáveis, dependências, fluxos.
 
-- Blue/Green
+🔄 Implemente estratégias de deploy seguro:
 
-- Canary Releases
+- Blue/Green.
 
-- Feature Toggles
+- Canary Releases.
 
-- 📉 Tenha métricas e alertas: uso de Prometheus, Grafana, Datadog, CloudWatch
+- Feature Toggles.
 
-- 🗂️ Registre todas as entregas: versão, data, responsável, mudanças aplicadas
+📉 Tenha métricas e alertas: uso de Prometheus, Grafana, Datadog, CloudWatch.
+
+🗂️ Registre todas as entregas: versão, data, responsável, mudanças aplicadas.
+
 
 ## Ferramentas úteis para Deploys Modernos
 | Categoria         | Ferramentas                        |
