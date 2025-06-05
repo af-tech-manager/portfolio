@@ -51,6 +51,7 @@ O líder técnico deve atuar como facilitador da transição emocional e operaci
 
 ## Conclusão
 Offboarding não é o fim é o fechamento digno de um capítulo. \
+\
 Quando bem conduzido, ele se transforma em oportunidade de reconhecimento, aprendizagem e construção de pontes. \
 \
 Empresas que compreendem o valor dos ciclos sabem que as pessoas **não deixam a empresa elas deixam experiências**. E essas experiências começam e terminam com cuidado.
