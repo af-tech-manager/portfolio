@@ -1,4 +1,4 @@
-k# 🎯 Definindo OKRs Organizacionais em Times de Tecnologia
+# 🎯 Definindo OKRs Organizacionais em Times de Tecnologia
 
 Por: [ Alan Fernandes - Tech Manager ] :house: [Voltar para home](https://github.com/af-tech-manager/portfolio/blob/main/README.md)
 
@@ -13,26 +13,21 @@ Em um ambiente corporativo cada vez mais orientado por dados e resultados, o ali
 Os OKRs consistem em dois componentes:
 
 * **Objective (Objetivo):**
-
-  Uma descrição qualitativa e inspiradora de onde se quer chegar.
+	Uma descrição qualitativa e inspiradora de onde se quer chegar.
   
 * **Key Results (Resultados-chave):**
-
-  Métricas quantitativas que medem se o objetivo está sendo alcançado.
+	Métricas quantitativas que medem se o objetivo está sendo alcançado.
 
 Por exemplo:
 
 * **Objetivo:**
-
-  Aumentar a estabilidade das aplicações em produção.
+	Aumentar a estabilidade das aplicações em produção.
   
 * **KR1:**
-
-  Reduzir em 50% o número de incidentes P1.
+	Reduzir em 50% o número de incidentes P1.
   
 * **KR2:**
-
-  Aumentar cobertura de testes automatizados para 85%.
+	Aumentar cobertura de testes automatizados para 85%.
 
 
 ## Por que usar OKRs na área de Tecnologia?
@@ -76,24 +71,19 @@ Recomenda-se no máximo 3 objetivos por trimestre, com até 3 KRs por objetivo. 
 ## Boas Práticas
 
 * ✅ **Mensurável:**
-
-KRs devem conter número, data ou percentual.
+			KRs devem conter número, data ou percentual.
 
 * ✅ **Desafiador mas alcançável:**
-
-Metas ambiciosas, porém realistas.
+			Metas ambiciosas, porém realistas.
 
 * ✅ **Transparente:**
-
-Todos os times devem ter acesso aos OKRs uns dos outros.
+			Todos os times devem ter acesso aos OKRs uns dos outros.
 
 * ✅ **Ciclos Curtos:**
-
-Trimestrais ou bimestrais funcionam melhor em ambientes ágeis.
+			Trimestrais ou bimestrais funcionam melhor em ambientes ágeis.
 
 * ✅ **Revisão Contínua:**
-
-Revise OKRs em dailies, weeklies ou reviews.
+			Revise OKRs em dailies, weeklies ou reviews.
 
 
 ## Exemplo Prático: Time de Plataforma
