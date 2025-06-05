@@ -59,7 +59,9 @@ Acompanhar indicadores como:
 - Lead time de teste.
 
 ## 8. Feedback Contínuo e Cultura de Qualidade
-QA não é só responsabilidade do tester: **todos são responsáveis pela qualidade**. Promover **feedbacks constantes, pareamento, code reviews e retrospectivas ágeis é essencial**.
+- QA não é só responsabilidade do tester: **todos são responsáveis pela qualidade**. 
+
+- Promover **feedbacks constantes, pareamento, code reviews e retrospectivas ágeis é essencial**.
 
 ## 🌐 QA como parceiro estratégico
 A atuação do QA deve ser colaborativa e **preventiva, não reativa**. Times de alta performance adotam QA desde o início do projeto, apoiando decisões de arquitetura, usabilidade e performance.
