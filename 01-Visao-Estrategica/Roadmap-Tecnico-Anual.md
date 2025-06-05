@@ -93,15 +93,15 @@ Um **roadmap técnico anual** é um plano visual que descreve:
 
 ## Dicas para Construir um Roadmap Técnico Eficiente
 
-* 🎯 **Comece pelo propósito estratégico**
+🎯 **Comece pelo propósito estratégico**
 
-* 📅 **Trabalhe com ciclos trimestrais**
+📅 **Trabalhe com ciclos trimestrais**
 
-* ⚙️ **Envie para cada time preencher suas entregas planejadas**
+⚙️ **Envie para cada time preencher suas entregas planejadas**
 
-* 🚥 **Identifique marcos e dependências entre squads**
+🚥 **Identifique marcos e dependências entre squads**
 
-* 🧭 **Reavalie e ajuste trimestralmente (Rolling Planning)**
+🧭 **Reavalie e ajuste trimestralmente (Rolling Planning)**
 
 
 
