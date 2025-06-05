@@ -7,65 +7,100 @@ A infraestrutura de TI é a espinha dorsal de qualquer organização digital. El
 Este artigo aborda as boas práticas, ferramentas e etapas para mapear ambientes de infraestrutura de forma clara, documentada e estratégica seja em data centers tradicionais ou em ambientes híbridos e em nuvem.
 
 ## O que é Mapeamento de Ambientes?
-É o processo de identificação, categorização e documentação de todos os componentes que integram a infraestrutura de TI. Isso inclui:
+É o processo de identificação, categorização e documentação de todos os componentes que integram a infraestrutura de TI. 
 
-- Ambientes (Desenvolvimento, Homologação, Produção)
+Isso inclui:
 
-- Servidores, storages, redes e firewalls
+- Ambientes (Desenvolvimento, Homologação, Produção).
 
-- Aplicações hospedadas
+- Servidores, storages, redes e firewalls.
 
-- Bancos de dados e serviços de backend
+- Aplicações hospedadas.
 
-- Serviços em nuvem (IaaS, PaaS, SaaS)
+- Bancos de dados e serviços de backend.
 
-- Integrações e fluxos de dados
+- Serviços em nuvem (IaaS, PaaS, SaaS).
+
+- Integrações e fluxos de dados.
 
 ## Por que mapear a infraestrutura?
-✅ Facilita a manutenção e o suporte técnico \
-✅ Reduz riscos operacionais e de segurança \
-✅ Acelera a resposta a incidentes e mudanças \
-✅ Permite uma gestão de capacidade eficiente \
-✅ Garante aderência à LGPD, ISO 27001 e outras normas \
-✅ Viabiliza migração para cloud ou reestruturações
+✅ Facilita a manutenção e o suporte técnico.
+
+✅ Reduz riscos operacionais e de segurança.
+
+✅ Acelera a resposta a incidentes e mudanças.
+
+✅ Permite uma gestão de capacidade eficiente.
+
+✅ Garante aderência à LGPD, ISO 27001 e outras normas.
+
+✅ Viabiliza migração para cloud ou reestruturações.
 
 ## Classificação de Ambientes
-- Tipo de Ambiente	Finalidade	Controle comum
-- Desenvolvimento	Testes iniciais, integração contínua	Acesso liberado, dados fictícios
-- Homologação	Validação funcional e de QA	Acesso controlado, dados espelhados
-- Produção	Execução do sistema real	Acesso restrito, dados reais
-- Contingência	Backup para operação crítica	Alta disponibilidade
+- Tipo de Ambiente.
+
+- Finalidade.
+
+- Controle comum.
+
+- Desenvolvimento.
+
+- Testes iniciais, integração contínua.
+
+- Acesso liberado, dados fictícios.
+
+- Homologação.
+
+- Validação funcional e de QA.
+
+- Acesso controlado, dados espelhados.
+
+- Produção.
+
+- Execução do sistema real.
+
+- Acesso restrito, dados reais.
+
+- Contingência.
+
+- Backup para operação crítica.
+
+- Alta disponibilidade.
 
 ## Etapas para o Mapeamento de Ambientes
-1. Inventário da Infraestrutura
-Liste todos os ativos: servidores, VMs, storages, firewalls, DNS, etc. Ferramentas úteis:
 
-- Zabbix, NetBox, GLPI, CMDBs
+## 1. Inventário da Infraestrutura
+- Liste todos os ativos: servidores, VMs, storages, firewalls, DNS, etc.
 
-- AWS Resource Groups (para cloud)
+Ferramentas úteis:
 
-- Scripts com Ansible, PowerShell ou Terraform
+- Zabbix, NetBox, GLPI, CMDBs.
+
+- AWS Resource Groups (para cloud).
+
+- Scripts com Ansible, PowerShell ou Terraform.
 
 ## 2. Documentação dos Ambientes
 Para cada ambiente (DEV, HML, PRD), documente:
 
-- Serviços e aplicações hospedadas
+- Serviços e aplicações hospedadas.
 
-- Tecnologias utilizadas
+- Tecnologias utilizadas.
 
-- Recursos alocados (CPU, memória, disco)
+- Recursos alocados (CPU, memória, disco).
 
-- SLAs e horários de uso
+- SLAs e horários de uso.
 
 ## 3. Mapeamento de Integrações
-Liste conexões entre sistemas: APIs, filas, ETLs, VPNs e fluxos de dados. Representar isso em diagramas facilita o entendimento e a governança.
+- Liste conexões entre sistemas: APIs, filas, ETLs, VPNs e fluxos de dados.
+- Representar isso em diagramas facilita o entendimento e a governança.
 
 ## 4. Classificação de Dados e Sensibilidade
 Identifique os tipos de dados tratados em cada ambiente:
 
-- Dados pessoais (LGPD)
+- Dados pessoais (LGPD).
 
-- Dados financeiros
+- Dados financeiros.
 
 - Credenciais, logs sensíveis, etc.
 
@@ -92,17 +127,17 @@ Identifique os tipos de dados tratados em cada ambiente:
 
 
 ## Boas Práticas
-📋 Mantenha o mapeamento atualizado
+📋 Mantenha o mapeamento atualizado.
 
-🛡️ Evite ambientes com acesso irrestrito
+🛡️ Evite ambientes com acesso irrestrito.
 
-🧪 Ambientes devem ser isolados para testes realistas
+🧪 Ambientes devem ser isolados para testes realistas.
 
-🔐 Aplique controles de acesso e logs de auditoria
+🔐 Aplique controles de acesso e logs de auditoria.
 
-🗂️ Use ferramentas de CMDB para governança
+🗂️ Use ferramentas de CMDB para governança.
 
-🌩️ Evite shadow IT — tudo precisa estar no mapa
+🌩️ Evite shadow IT — tudo precisa estar no mapa.
 
 ## Conclusão
 Mapear ambientes é o primeiro passo para uma gestão de infraestrutura moderna, segura e escalável. \
