@@ -7,44 +7,45 @@ O crescimento profissional é uma das maiores motivações de talentos em tecnol
 Este artigo apresenta como construir trilhas de carreira em TI, definindo níveis, expectativas, soft/hard skills e diferenciais entre liderança técnica e de gestão.
 
 ## Por que ter um Plano de Carreira em TI?
-✅ Reduz a rotatividade de talentos 
 
-✅ Alinha expectativas entre líder e liderado 
+✅ Reduz a rotatividade de talentos.
 
-✅ Estimula o aprendizado contínuo 
+✅ Alinha expectativas entre líder e liderado.
 
-✅ Gera clareza nas promoções e feedbacks 
+✅ Estimula o aprendizado contínuo.
 
-✅ Ajuda na definição de metas e PDIs 
+✅ Gera clareza nas promoções e feedbacks.
 
-✅ Fortalece a cultura de meritocracia e desenvolvimento
+✅ Ajuda na definição de metas e PDIs.
+
+✅ Fortalece a cultura de meritocracia e desenvolvimento.
 
 ## Estrutura Básica de Trilhas
-Um plano de carreira técnico geralmente segue duas trilhas complementares:
+Um plano de carreira técnico geralmente segue duas trilhas complementares: Trilha de Liderança (People Management) OU Trilha de Liderança (People Management).
 
 ## 🛠️ Trilha Técnica (IC - Individual Contributor)
 Crescimento com foco em profundidade técnica e impacto nos produtos, sem assumir gestão de pessoas.
 
-- Desenvolvedor Júnior
+- Desenvolvedor Júnior.
 
-- Desenvolvedor Pleno
+- Desenvolvedor Pleno.
 
-- Desenvolvedor Sênior
+- Desenvolvedor Sênior.
 
-- Especialista / Arquiteto / Staff Engineer
+- Especialista / Arquiteto / Staff Engineer.
 
-- Distinguished Engineer / Fellow
+- Distinguished Engineer / Fellow.
 
 ## 👥 Trilha de Liderança (People Management)
 Foco na liderança de times, gestão de performance, alinhamento estratégico e cultura.
 
-- Tech Lead
+- Tech Lead.
 
-- Engineering Manager
+- Engineering Manager.
 
-- Head of Engineering
+- Head of Engineering.
 
-- CTO
+- CTO.
 
 ## Exemplo de Expectativas por Nível (Trilha Técnica)
 | Nível          | Expectativas Técnicas                                    | Soft Skills e Atitudes                   |
@@ -65,38 +66,43 @@ Foco na liderança de times, gestão de performance, alinhamento estratégico e 
 
 ## Trilhas Comuns em Outras Funções de TI
 #### 🎨 Product Design / UX
-- Júnior → Pleno → Sênior → Principal Designer → Head Design
+- Júnior → Pleno → Sênior → Principal Designer → Head Design.
 
 #### 🧪 QA / Testes
-- Tester Júnior → QA Pleno → QA Sênior → Especialista em Testes → QA Manager
+- Tester Júnior → QA Pleno → QA Sênior → Especialista em Testes → QA Manager.
 
 #### 📊 Product Owner / Gestão de Produto
-- Associate PO → PO → PM → Senior PM → Group PM → CPO
+- Associate PO → PO → PM → Senior PM → Group PM → CPO.
 
 #### 📅 Gerente de Projetos / PMO
-- Assistente PMO → PMO Pleno → Project Manager → Sr. Project Manager → PMO Lead
+- Assistente PMO → PMO Pleno → Project Manager → Sr. Project Manager → PMO Lead.
+
+
 
 ## Boas Práticas para Construir um Plano de Carreira
-🗺️ Mapeie competências técnicas e comportamentais
 
-📘 Crie um guia de progressão por nível com exemplos
+🗺️ Mapeie competências técnicas e comportamentais.
 
-🗣️ Faça revisões semestrais com base em metas claras
+📘 Crie um guia de progressão por nível com exemplos.
 
-📈 Integre ao plano de desenvolvimento individual (PDI)
+🗣️ Faça revisões semestrais com base em metas claras.
 
-🧪 Inclua rituais de feedback contínuo (1:1, retros, etc.)
+📈 Integre ao plano de desenvolvimento individual (PDI).
 
-🎯 Alinhe o plano com os objetivos da empresa
+🧪 Inclua rituais de feedback contínuo (1:1, retros, etc.).
+
+🎯 Alinhe o plano com os objetivos da empresa.
+
 
 ## Como Implementar na Prática
-- Crie descrições claras para cada nível
 
-- Realize autoavaliação e avaliação 360º
+- Crie descrições claras para cada nível.
 
-- Construa PDI individualizado com base nas lacunas
+- Realize autoavaliação e avaliação 360º.
 
-- Reavalie a cada 6 meses ou conforme o ciclo de performance
+- Construa PDI individualizado com base nas lacunas.
+
+- Reavalie a cada 6 meses ou conforme o ciclo de performance.
 
 ## Conclusão
 Planos de carreira bem definidos são um pilar de qualquer time técnico de alta performance. Eles fornecem clareza, reconhecimento e direção, elementos fundamentais para reter talentos em um mercado aquecido. \
