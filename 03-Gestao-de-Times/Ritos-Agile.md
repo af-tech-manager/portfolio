@@ -9,9 +9,9 @@ Este artigo explica os principais rituais ágeis adotados em frameworks como Scr
 ## 🗓️ 1. Daily (Daily Scrum ou Stand-up)
 Objetivo: Sincronizar o time sobre o progresso, identificar impedimentos e ajustar o plano de trabalho diário.
 
-- Duração: 15 minutos
+- **Duração:** 15 minutos.
 
-- Frequência: Diária
+- **Frequência:** Diária.
 
 ### Formato sugerido:
 
@@ -27,24 +27,25 @@ Objetivo: Sincronizar o time sobre o progresso, identificar impedimentos e ajust
 
 - Use um board (físico ou digital) como referência.
 
-- Evite longas discussões — assuntos paralelos devem virar “parking lot”.
+- Evite longas discussões, assuntos paralelos devem virar “parking lot”.
 
 ## 📅 2. Planning (Sprint Planning ou Planejamento de Iteração)
-Objetivo: Definir o objetivo da sprint e os itens do backlog que serão entregues no ciclo atual.
 
-- Duração: 1 a 2 horas para sprints de 1 semana; até 4 horas para sprints de 2 semanas.
+- **Objetivo:** Definir o objetivo da sprint e os itens do backlog que serão entregues no ciclo atual.
 
-- Responsáveis: PO apresenta o backlog; time técnico estima e compromete.
+- **Duração:** 1 a 2 horas para sprints de 1 semana; até 4 horas para sprints de 2 semanas.
+
+- **Responsáveis:** PO apresenta o backlog; time técnico estima e compromete.
 
 ### Etapas típicas:
 
-- Revisão do backlog priorizado
+- Revisão do backlog priorizado.
 
-- Estimativas (story points, T-shirt sizes, etc.)
+- Estimativas (story points, T-shirt sizes, etc.).
 
-- Definição do Sprint Goal
+- Definição do Sprint Goal.
 
-- Criação das tarefas técnicas
+- Criação das tarefas técnicas.
 
 ### Boas práticas:
 
@@ -55,54 +56,56 @@ Objetivo: Definir o objetivo da sprint e os itens do backlog que serão entregue
 - Alinhe capacidade da sprint com feriados, férias, etc.
 
 ## ✅ 3. Review (Sprint Review)
-Objetivo: Demonstrar para os stakeholders as entregas realizadas e coletar feedback em tempo real.
 
-- Duração: 30 min a 1h (dependendo do volume de entregas)
+- **Objetivo:** Demonstrar para os stakeholders as entregas realizadas e coletar feedback em tempo real.
 
-- Participantes: Time de desenvolvimento + PO + stakeholders
+- **Duração:** 30 min a 1h (dependendo do volume de entregas).
+
+- **Participantes:** Time de desenvolvimento + PO + stakeholders.
 
 ### Formato sugerido:
 
-- PO contextualiza o Sprint Goal
+- PO contextualiza o Sprint Goal.
 
-- Devs demonstram funcionalidades prontas
+- Devs demonstram funcionalidades prontas.
 
-- Stakeholders dão feedback
+- Stakeholders dão feedback.
 
-- PO atualiza backlog com base nas sugestões
+- PO atualiza backlog com base nas sugestões.
 
 ### Boas práticas:
 
-- Use ambientes reais ou staging para demo
+- Use ambientes reais ou staging para demo.
 
-- Evite apresentações em PowerPoint — mostre o produto funcionando
+- Evite apresentações em PowerPoint — mostre o produto funcionando.
 
-- Documente sugestões de melhoria
+- Documente sugestões de melhoria.
 
 ## 🔄 4. Retrospective
-Objetivo: Refletir sobre o ciclo encerrado e identificar pontos de melhoria no processo.
 
-- Duração: 45 min a 1h30, conforme a maturidade do time
+- **Objetivo:** Refletir sobre o ciclo encerrado e identificar pontos de melhoria no processo.
 
-- Formato mais comum: Start / Stop / Continue ou Mad / Sad / Glad
+- **Duração:** 45 min a 1h30, conforme a maturidade do time.
+
+- **Formato mais comum:** Start / Stop / Continue ou Mad / Sad / Glad.
 
 ### Etapas sugeridas:
 
-- Check-in emocional
+- Check-in emocional.
 
-- Levantamento de pontos positivos e negativos
+- Levantamento de pontos positivos e negativos.
 
-- Priorização de melhorias
+- Priorização de melhorias.
 
-- Criação de ações com responsáveis e prazos
+- Criação de ações com responsáveis e prazos.
 
 ### Boas práticas:
 
-- Crie um ambiente seguro e respeitoso
+- Crie um ambiente seguro e respeitoso.
 
-- Use ferramentas visuais (Miro, FunRetro, EasyRetro)
+- Use ferramentas visuais (Miro, FunRetro, EasyRetro).
 
-- Limite o número de ações por ciclo e revise na próxima retro
+- Limite o número de ações por ciclo e revise na próxima retro.
 
 ## Outras Cerimônias Complementares
 | Cerimônia                      | Objetivo                                           |
@@ -113,15 +116,16 @@ Objetivo: Refletir sobre o ciclo encerrado e identificar pontos de melhoria no p
 
 
 ## Como Tornar os Rituais mais Eficientes?
-🕒 Respeite o tempo e o foco de cada ritual
 
-🧩 Customize os rituais conforme a maturidade do time
+🕒 Respeite o tempo e o foco de cada ritual.
 
-📊 Use dados reais: throughput, lead time, bugs, NPS
+🧩 Customize os rituais conforme a maturidade do time.
 
-🎯 Mantenha o foco no valor entregue ao cliente
+📊 Use dados reais: throughput, lead time, bugs, NPS.
 
-🧠 Registre aprendizados e evolua continuamente
+🎯 Mantenha o foco no valor entregue ao cliente.
+
+🧠 Registre aprendizados e evolua continuamente.
 
 ## Conclusão
 Os rituais ágeis são o ritmo de funcionamento da equipe. Quando bem conduzidos, criam alinhamento, transparência, aprendizado e evolução contínua. Eles não devem ser burocráticos, mas instrumentos vivos de melhoria e entrega de valor. \
