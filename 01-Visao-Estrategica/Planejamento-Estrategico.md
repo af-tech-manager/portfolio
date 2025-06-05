@@ -47,12 +47,12 @@ Cada iniciativa tecnológica deve estar vinculada a um objetivo de negócio.
 
 Exemplo:
 
-Se a meta corporativa é "escalar novos canais digitais", TI deve propor ações como "migração para microsserviços" ou "aumento da cobertura de testes em mobile".
+Se a meta corporativa é **"escalar novos canais digitais"**, TI deve propor ações como **"migração para microsserviços"** ou **"aumento da cobertura de testes em mobile"**.
 
 ### 3. Definição de Metas e Indicadores
-**Metas:** Ambiciosas, porém viáveis (usualmente definidas por OKRs ou KPIs).
+- **Metas:** Ambiciosas, porém viáveis (usualmente definidas por OKRs ou KPIs).
 
-**Indicadores:** Devem medir resultado, não apenas esforço (ex: % de uptime, MTTR, NPS interno, tempo de ciclo).
+- **Indicadores:** Devem medir resultado, não apenas esforço (ex: % de uptime, MTTR, NPS interno, tempo de ciclo).
 
 ### 4. Construção do Roadmap
 Organize as iniciativas em horizontes de tempo (trimestres, semestres, anos). Exemplo:
