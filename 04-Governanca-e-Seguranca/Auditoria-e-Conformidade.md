@@ -2,35 +2,35 @@
 Por [ Alan Fernandes - Tech Manager ] :house: [Voltar para home](https://github.com/af-tech-manager/portfolio/blob/main/README.md)
 
 ## Introdução
-Em um cenário cada vez mais orientado por dados e regulamentos, garantir conformidade legal, técnica e processual se tornou uma exigência crítica para áreas de Tecnologia. Além disso, processos bem estruturados de auditoria interna e externa ajudam a prevenir riscos, aumentar a confiabilidade dos sistemas e melhorar a governança da organização.
+Em um cenário cada vez mais orientado por dados e regulamentos, garantir conformidade leygal, técnica e processual se tornou uma exigência crítica para áreas de Tecnologia. Além disso, processos bem estruturados de auditoria interna e externa ajudam a prevenir riscos, aumentar a confiabilidade dos sistemas e melhorar a governança da organização.
 
 Este artigo apresenta os principais conceitos de auditoria e compliance em TI, acompanhados de checklists práticos e requisitos que servem como base para empresas que buscam segurança, rastreabilidade e aderência a normas.
 
 ## O que é Conformidade em TI?
 Conformidade (ou compliance) em TI significa seguir regras, normas e padrões relacionados a:
 
-- Legislação vigente (ex: LGPD, GDPR, Lei Sarbanes-Oxley)
+- Legislação vigente (ex: LGPD, GDPR, Lei Sarbanes-Oxley).
 
-- Padrões de segurança da informação (ex: ISO 27001, NIST, PCI-DSS)
+- Padrões de segurança da informação (ex: ISO 27001, NIST, PCI-DSS).
 
-- Políticas e diretrizes internas
+- Políticas e diretrizes internas.
 
-- Contratos com clientes e fornecedores
+- Contratos com clientes e fornecedores.
 
 ## O que é Auditoria de TI?
 A auditoria é um processo sistemático de verificação e validação dos controles, sistemas e procedimentos adotados. Pode ser:
 
-- Interna: conduzida pela equipe da própria organização
+- **Interna:** conduzida pela equipe da própria organização.
 
-- Externa: conduzida por empresas ou órgãos reguladores
+- **Externa:** conduzida por empresas ou órgãos reguladores.
 
-Objetivos principais:
+**Objetivos principais:**
 
-- Verificar conformidade com políticas e leis
+- Verificar conformidade com políticas e leis.
 
-- Identificar falhas de segurança, acessos indevidos ou dados sem controle
+- Identificar falhas de segurança, acessos indevidos ou dados sem controle.
 
-Avaliar riscos operacionais e recomendações de melhorias
+- Avaliar riscos operacionais e recomendações de melhorias.
 
 ## Principais Requisitos de Conformidade
 | Categoria                   | Exemplo de Requisitos                                                |
@@ -43,42 +43,49 @@ Avaliar riscos operacionais e recomendações de melhorias
 
 
 ## Checklist de Auditoria de Conformidade em TI
-✅ Governança e Política
+
+✅ **Governança e Política**
+
 - Existe uma política de segurança da informação formalizada?
 
 - Os papéis e responsabilidades estão definidos?
 
 - Há gestão de riscos formal com revisões periódicas?
 
-✅ Acesso e Identidade
+✅ **Acesso e Identidade**
+
 - Os acessos a sistemas críticos são revisados regularmente?
 
 - Há controle de privilégios administrativos?
 
 - A empresa usa autenticação multifator?
 
-✅ Dados e Privacidade
+✅ **Dados e Privacidade**
+
 - Há política de retenção e descarte de dados?
 
 - Os dados sensíveis estão criptografados?
 
 - Há registro de consentimento de usuários (LGPD)?
 
-✅ Continuidade e Recuperação
+✅ **Continuidade e Recuperação**
+
 - Existe plano de continuidade de negócios (BCP)?
 
 - Backups são realizados e testados periodicamente?
 
 - Há planos de recuperação de desastres (DRP)?
 
-✅ Monitoramento e Logs
+✅ **Monitoramento e Logs**
+
 - Eventos críticos são registrados em logs?
 
 - Há monitoramento ativo de incidentes?
 
 - Logs de auditoria estão protegidos contra alterações?
 
-✅ Contratos e Terceiros
+✅ **Contratos e Terceiros**
+
 - Fornecedores críticos são avaliados quanto à segurança?
 
 - Há cláusulas contratuais de proteção de dados?
@@ -95,18 +102,19 @@ Avaliar riscos operacionais e recomendações de melhorias
 | Gestão documental        | Confluence, Notion, SharePoint      |
 
 ## Boas Práticas
-🔐 Privacidade desde a concepção (Privacy by Design)
 
-🔄 Auditorias regulares e com planos de ação
+🔐 Privacidade desde a concepção (Privacy by Design).
 
-🧾 Mantenha a documentação sempre atualizada
+🔄 Auditorias regulares e com planos de ação.
 
-📚 Treinamentos obrigatórios para colaboradores
+🧾 Mantenha a documentação sempre atualizada.
 
-🗂️ Tenha um repositório central de evidências
+📚 Treinamentos obrigatórios para colaboradores.
+
+🗂️ Tenha um repositório central de evidências.
 
 ## Conclusão
-A conformidade em TI vai além de "cumprir normas" é um instrumento estratégico de credibilidade, mitigação de riscos e proteção da reputação. \
+A conformidade em TI vai além de **"cumprir normas"** é um instrumento estratégico de credibilidade, mitigação de riscos e proteção da reputação. \
 \
 Empresas que investem em auditoria e compliance fortalecem sua governança e se posicionam de forma segura em um mercado cada vez mais regulado.
 
