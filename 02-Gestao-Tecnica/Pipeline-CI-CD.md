@@ -2,14 +2,14 @@
 Por: [ Alan Fernandes - Tech Manager ] :house: [Voltar para home](https://github.com/af-tech-manager/portfolio/blob/main/README.md)
 
 ## Introdução
-A entrega de software moderna exige velocidade, qualidade e automação. Nesse contexto, o uso de Pipelines CI/CD (Continuous Integration / Continuous Delivery) se tornou padrão nas equipes de alta performance.
+A entrega de software moderna exige velocidade, qualidade e automação. Nesse contexto, o uso de Pipelines CI/CD **(Continuous Integration / Continuous Delivery)** se tornou padrão nas equipes de alta performance.
 
 Pipelines bem definidos garantem que o código entregue seja testado, validado, integrado e disponibilizado automaticamente, reduzindo falhas e acelerando o time-to-market.
 
 ## O que é CI/CD?
-- CI (Continuous Integration): Processo de integrar alterações de código de todos os desenvolvedores de forma contínua, com automação de testes e validações.
+- **CI (Continuous Integration):** Processo de integrar alterações de código de todos os desenvolvedores de forma contínua, com automação de testes e validações.
 
-- CD (Continuous Delivery/Deployment): Automatização da entrega ou implantação do software em ambientes controlados (homologação e produção).
+- **CD (Continuous Delivery/Deployment):** Automatização da entrega ou implantação do software em ambientes controlados (homologação e produção).
 
 ## Etapas Comuns de um Pipeline CI/CD
 | Etapa                              | Objetivo                                                  |
@@ -40,23 +40,24 @@ Pipelines bem definidos garantem que o código entregue seja testado, validado, 
 ![image](https://github.com/user-attachments/assets/d574787b-d3d2-4850-9a18-1da6f935f971)
 
 ## Boas Práticas
-✅ Mantenha o pipeline curto e confiável
+✅ Mantenha o pipeline curto e confiável.
 
-✅ Teste falhas de build e simule cenários de rollback
+✅ Teste falhas de build e simule cenários de rollback.
 
-✅ Utilize “feature flags” para liberar funcionalidades sem novos deploys
+✅ Utilize “feature flags” para liberar funcionalidades sem novos deploys.
 
-✅ Implemente canary releases ou blue/green deployments
+✅ Implemente canary releases ou blue/green deployments.
 
-✅ Automatize rollback e monitoramento após deploy
+✅ Automatize rollback e monitoramento após deploy.
 
-✅ Documente seu pipeline e torne-o versionável
+✅ Documente seu pipeline e torne-o versionável.
 
 ## CI vs CD vs CD 🤔
-Termo	Significado
-- CI (Integração Contínua)	Testar e validar código automaticamente
-- CD (Entrega Contínua)	Entregar código aprovado em ambiente hml/prod
-- CD (Implantação Contínua)	Deploy automático direto em produção (sem gatilhos manuais)
+Termo e significado:
+
+- **CI (Integração Contínua):** Testar e validar código automaticamente.
+- **CD (Entrega Contínua):** Entregar código aprovado em ambiente hml/prod.
+- **CD (Implantação Contínua):** Deploy automático direto em produção (sem gatilhos manuais).
 
 ## Conclusão
 Pipelines CI/CD são a coluna vertebral da engenharia moderna de software. Com eles, times ganham agilidade, previsibilidade e segurança na entrega contínua de valor ao cliente. \
