@@ -11,11 +11,11 @@ O One-on-One (1:1) é uma reunião individual e periódica entre líder e lidera
 
 ## É um espaço seguro para:
 
-📣 Expressar dificuldades, aspirações e feedbacks
+📣 Expressar dificuldades, aspirações e feedbacks.
 
-🛠️ Alinhar prioridades e identificar gargalos
+🛠️ Alinhar prioridades e identificar gargalos.
 
-🚀 Mapear oportunidades de crescimento e evolução
+🚀 Mapear oportunidades de crescimento e evolução.
 
 **“É menos sobre controle e mais sobre conexão.”**
 
@@ -53,22 +53,22 @@ Times que se sentem ouvidos, valorizados e direcionados têm mais engajamento e 
 
 **3.** O que posso fazer para te apoiar melhor?
 
-**4.** Escute mais do que fale
+**4.** Escute mais do que fale.
 
-**5.** Acompanhe ações combinadas
+**5.** Acompanhe ações combinadas.
 
-**6.** Crie confiança, não julgamento
+**6.** Crie confiança, não julgamento.
 
 ## O papel do Tech Manager nos 1:1
 O líder técnico não é apenas gestor de tarefas. Ele é um desenvolvedor de pessoas. O one-on-one é o seu principal instrumento para:
 
-📍 Diagnosticar necessidades de capacitação
+📍 Diagnosticar necessidades de capacitação.
 
-💡 Alinhar expectativas entre carreira e entregas
+💡 Alinhar expectativas entre carreira e entregas.
 
-🤝 Fortalecer relações de confiança e cultura de equipe
+🤝 Fortalecer relações de confiança e cultura de equipe.
 
-🎯 Impulsionar a performance com equilíbrio e empatia
+🎯 Impulsionar a performance com equilíbrio e empatia.
 
 ## Conclusão
 A tecnologia muda rápido, mas as pessoas crescem com consistência. Feedbacks e one-on-ones não são burocracia são ferramentas de liderança de alta performance. \
