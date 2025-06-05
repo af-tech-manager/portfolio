@@ -1,4 +1,4 @@
-# 🎯 Definindo OKRs Organizacionais em Times de Tecnologia
+k# 🎯 Definindo OKRs Organizacionais em Times de Tecnologia
 
 Por: [ Alan Fernandes - Tech Manager ] :house: [Voltar para home](https://github.com/af-tech-manager/portfolio/blob/main/README.md)
 
@@ -13,20 +13,25 @@ Em um ambiente corporativo cada vez mais orientado por dados e resultados, o ali
 Os OKRs consistem em dois componentes:
 
 * **Objective (Objetivo):**
+
   Uma descrição qualitativa e inspiradora de onde se quer chegar.
   
 * **Key Results (Resultados-chave):**
+
   Métricas quantitativas que medem se o objetivo está sendo alcançado.
 
 Por exemplo:
 
 * **Objetivo:**
+
   Aumentar a estabilidade das aplicações em produção.
   
 * **KR1:**
+
   Reduzir em 50% o número de incidentes P1.
   
 * **KR2:**
+
   Aumentar cobertura de testes automatizados para 85%.
 
 
@@ -50,7 +55,7 @@ Os OKRs ajudam a:
 
 Cada time técnico deve compreender os objetivos de negócio e traduzi-los para sua realidade. 
 
-Por exemplo, se a meta da empresa é “aumentar retenção de clientes”, o time de engenharia pode contribuir melhorando performance ou confiabilidade da plataforma.
+Por exemplo, se a meta da empresa é **“aumentar retenção de clientes”**, o time de engenharia pode contribuir melhorando performance ou confiabilidade da plataforma.
 
 ### 2. **Definição Colaborativa**
 
@@ -58,7 +63,7 @@ Evite top-down. Engenheiros, tech leads e product managers devem participar da c
 
 ### 3. **Escolha de Métricas Impactantes**
 
-Foque em *outcomes* (resultados), não apenas *outputs* (entregas). 
+Foque em **outcomes** (resultados), não apenas **outputs** (entregas). 
 
 Ex: "tempo médio de recuperação" é mais significativo que "número de commits".
 
@@ -70,28 +75,36 @@ Recomenda-se no máximo 3 objetivos por trimestre, com até 3 KRs por objetivo. 
 
 ## Boas Práticas
 
-* ✅ **Mensurável:** KRs devem conter número, data ou percentual
-* ✅ **Desafiador mas alcançável:** metas ambiciosas, porém realistas
-* ✅ **Transparente:** todos os times devem ter acesso aos OKRs uns dos outros
-* ✅ **Ciclos Curtos:** trimestrais ou bimestrais funcionam melhor em ambientes ágeis
-* ✅ **Revisão Contínua:** revise OKRs em dailies, weeklies ou reviews
+* ✅ **Mensurável:**
+
+KRs devem conter número, data ou percentual.
+
+* ✅ **Desafiador mas alcançável:**
+
+Metas ambiciosas, porém realistas.
+
+* ✅ **Transparente:**
+
+Todos os times devem ter acesso aos OKRs uns dos outros.
+
+* ✅ **Ciclos Curtos:**
+
+Trimestrais ou bimestrais funcionam melhor em ambientes ágeis.
+
+* ✅ **Revisão Contínua:**
+
+Revise OKRs em dailies, weeklies ou reviews.
 
 
 ## Exemplo Prático: Time de Plataforma
 
 **Objetivo:** Aumentar a confiabilidade da infraestrutura.
 
-* KR1:
+* **KR1:** Reduzir incidentes de produção em 40%.
   
-  Reduzir incidentes de produção em 40%.
+* **KR2:** Aumentar cobertura de testes automatizados para 90%.
   
-* KR2:
-  
-  Aumentar cobertura de testes automatizados para 90%.
-  
-* KR3:
-  
-  Implementar monitoramento em 100% dos microserviços.
+* **KR3:** Implementar monitoramento em 100% dos microserviços.
 
 
 ## Conclusão
