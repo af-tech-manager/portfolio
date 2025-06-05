@@ -26,29 +26,30 @@ Para times de tecnologia, o Manifesto Ágil é um guia para entregar valor com e
 - Tecnologia muda, o mercado muda, e o cliente muda. Times ágeis abraçam a mudança como uma vantagem, não como uma falha.
 
 ## Os 12 Princípios Ágeis (resumidos para aplicação em times)
-**1.** Entregar valor continuamente e cedo
 
-**2.** Aceitar mudanças, mesmo em fases avançadas
+**1.** Entregar valor continuamente e cedo.
 
-**3.** Entregar software funcional frequentemente
+**2.** Aceitar mudanças, mesmo em fases avançadas.
 
-**4.** Times de negócio e tecnologia trabalhando juntos
+**3.** Entregar software funcional frequentemente.
 
-**5.** Confiar e empoderar os times
+**4.** Times de negócio e tecnologia trabalhando juntos.
 
-**6.** Comunicação face a face é a melhor forma de troca
+**5.** Confiar e empoderar os times.
 
-**7.** Software funcional é a principal medida de progresso
+**6.** Comunicação face a face é a melhor forma de troca.
 
-**8.** Manter ritmo sustentável de desenvolvimento
+**7.** Software funcional é a principal medida de progresso.
 
-**9.** Atenção contínua à excelência técnica
+**8.** Manter ritmo sustentável de desenvolvimento.
 
-**10.** Simplicidade é essencial
+**9.** Atenção contínua à excelência técnica.
 
-**11.** Times auto-organizados produzem melhores soluções
+**10.** Simplicidade é essencial.
 
-**12.** Refletir e ajustar continuamente
+**11.** Times auto-organizados produzem melhores soluções.
+
+**12.** Refletir e ajustar continuamente.
 
 ## Por que isso importa para o time de Tecnologia?
 🔁 **Menos retrabalho, mais aprendizado**
