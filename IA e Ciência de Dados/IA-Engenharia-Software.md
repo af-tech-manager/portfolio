@@ -1,5 +1,5 @@
 # 🤖 Inteligência Artificial na Engenharia de Software: Eficiência, Automação e Inovação
-
+Por [ Alan Fernandes - Tech Manager ] :house: [Voltar para home](https://github.com/af-tech-manager/portfolio/blob/main/README.md)
 
 ## Introdução
 A Inteligência Artificial (IA) tem deixado de ser um campo isolado de pesquisa e se consolidado como componente central da moderna engenharia de software.
@@ -71,9 +71,9 @@ Hoje, times de desenvolvimento utilizam IA não apenas como funcionalidade de pr
 ## Impactos Organizacionais
 
 - Área	Impacto da IA
-- 
+  
 - Engenharia de Software	Mais produtividade, foco em problemas complexos
-- 
+  
 - Gestão Técnica (Tech Lead)	Apoio à revisão, pareamento e mentoria
 
 - Qualidade (QA)	Testes mais rápidos, inteligentes e estratégicos
@@ -96,8 +96,11 @@ Hoje, times de desenvolvimento utilizam IA não apenas como funcionalidade de pr
 
 
 ## Conclusão
-A Inteligência Artificial já não é um diferencial — é um componente essencial da engenharia moderna de software. Quando bem aplicada, a IA potencializa talentos humanos, otimiza processos e promove inovação com escala.\
+A Inteligência Artificial já não é um diferencial, é um componente essencial da engenharia moderna de software. Quando bem aplicada, a IA potencializa talentos humanos, otimiza processos e promove inovação com escala.\
 \
-O papel do engenheiro não é competir com a IA, mas usá-la como alavanca de valor — mantendo a criatividade, o pensamento crítico e o propósito no centro da entrega tecnológica.
+O papel do engenheiro não é competir com a IA, mas usá-la como alavanca de valor, mantendo a criatividade, o pensamento crítico e o propósito no centro da entrega tecnológica. \
 \
-**“A IA escreve código, mas quem entrega valor é o humano com visão sistêmica.”**
+**“A IA escreve código, mas quem entrega valor é o humano com visão sistêmica.”** \
+
+---
+:lock: 2025 - Todos os direitos autorais reservados à Alan Fernandes - pm.alfernandes@gmail.com
