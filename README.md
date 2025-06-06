@@ -60,6 +60,13 @@ Perfil no LinkedIn: https://www.linkedin.com/in/alfernanandes/
   - [Avaliação de Novas Tecnologias: Como Escolher Stacks e Estratégias de Testes para sua Realidade](https://github.com/af-tech-manager/portfolio/blob/main/06-Inovacao-e-P%26D/Avaliacao-Tecnologias.md)
   - [Escalando o Desenvolvimento de Sistemas com Design System](https://github.com/af-tech-manager/portfolio/blob/main/06-Inovacao-e-P&D/Escalabilidade-Design-System.md)
 
+- **IA Inteligência Artificial e Ciência de Dados:** IA Desenvolvimento Produtos Digitais, IA Engenharia de Software, IA Gestão de Projetos, Inovação e Tranformação Digital, Cultura Estratégica Data Driven.
+  - [Inteligência Artificial no Processo de Desenvolvimento de Produtos Digitais](https://github.com/af-tech-manager/portfolio/blob/main/IA%20e%20Ci%C3%AAncia%20de%20Dados/IA-Desenvolvimento-Produtos-Digitais.md)
+  - [Inteligência Artificial na Engenharia de Software: Eficiência, Automação e Inovação](https://github.com/af-tech-manager/portfolio/blob/main/IA%20e%20Ci%C3%AAncia%20de%20Dados/IA-Engenharia-Software.md)
+  - [IA na Gestão de Projetos de TI: Eficiência, Previsibilidade e Inovação](https://github.com/af-tech-manager/portfolio/blob/main/IA%20e%20Ci%C3%AAncia%20de%20Dados/IA-Gestao-Projetos-TI.md)
+  - [Inovação e Transformação Digital com Ciência de Dados](https://github.com/af-tech-manager/portfolio/blob/main/IA%20e%20Ci%C3%AAncia%20de%20Dados/Inova%C3%A7%C3%A3o-Transforma%C3%A7%C3%A3o-Ciencia-Dados.md)
+  - [Cultura Estratégica Data-Driven: Tomando Decisões com Base em Evidências](https://github.com/af-tech-manager/portfolio/blob/main/IA%20e%20Ci%C3%AAncia%20de%20Dados/Cultura-Estrategica-Data-Driven.md)
+
 
 ## Licença - Termo de uso e responsabilidade com Direitos Autorais.
 [MIT - License](https://github.com/af-tech-manager/portfolio?tab=License-1-ov-file)
