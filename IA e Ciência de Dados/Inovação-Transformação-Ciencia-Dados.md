@@ -76,7 +76,9 @@ Líderes e gestores precisam:
 - Atuar como agentes de mudança orientada por evidências
 
 ## Conclusão
-A transformação digital não é apenas sobre tecnologia — é sobre usar dados para reinventar processos, produtos e experiências. A Ciência de Dados é o coração dessa revolução, permitindo que organizações prevejam, personalizem, automatizem e inovem com agilidade. \
+A transformação digital não é apenas sobre tecnologia é sobre usar dados para reinventar processos, produtos e experiências. \
+\
+A Ciência de Dados é o coração dessa revolução, permitindo que organizações prevejam, personalizem, automatizem e inovem com agilidade. \
 \
 **"Dados são o novo petróleo. Ciência de Dados é a refinaria. Inovação é o combustível que move o futuro."**
 
