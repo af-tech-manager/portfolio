@@ -4,7 +4,7 @@ Por [ Alan Fernandes - Tech Manager ] :house: [Voltar para home](https://github.
 ## Introdução
 A transformação digital deixou de ser um diferencial e tornou-se um imperativo estratégico. Neste cenário, a Ciência de Dados surge como o motor da inovação organizacional, permitindo decisões baseadas em evidências, personalização de experiências e criação de novos modelos de negócio.
 
-**Mais do que dashboards e relatórios, a Ciência de Dados oferece inteligência preditiva e prescritiva — um fator-chave para organizações que buscam adaptabilidade, competitividade e crescimento sustentável.**
+**Mais do que dashboards e relatórios, a Ciência de Dados oferece inteligência preditiva e prescritiva, um fator-chave para organizações que buscam adaptabilidade, competitividade e crescimento sustentável.**
 
 ## O que é Ciência de Dados?
 A Ciência de Dados é uma disciplina multidisciplinar que combina estatística, programação, inteligência artificial e conhecimento de domínio para extrair valor de dados estruturados e não estruturados.
