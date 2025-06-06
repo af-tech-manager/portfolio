@@ -69,18 +69,14 @@ Hoje, times de desenvolvimento utilizam IA não apenas como funcionalidade de pr
 
 
 ## Impactos Organizacionais
+| Área                           | Impacto da IA                                     |
+| ------------------------------ | ------------------------------------------------- |
+| **Engenharia de Software**     | Mais produtividade, foco em problemas complexos   |
+| **Gestão Técnica (Tech Lead)** | Apoio à revisão, pareamento e mentoria            |
+| **Qualidade (QA)**             | Testes mais rápidos, inteligentes e estratégicos  |
+| **DevOps**                     | Alertas mais assertivos, pipelines adaptativos    |
+| **Produto**                    | Feedback de uso em tempo real, priorização guiada |
 
-- Área	Impacto da IA
-  
-- Engenharia de Software	Mais produtividade, foco em problemas complexos
-  
-- Gestão Técnica (Tech Lead)	Apoio à revisão, pareamento e mentoria
-
-- Qualidade (QA)	Testes mais rápidos, inteligentes e estratégicos
-  
-- DevOps	Alertas mais assertivos, pipelines adaptativos
-  
-- Produto	Feedback de uso em tempo real, priorização guiada
 
 
 
