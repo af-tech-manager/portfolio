@@ -116,4 +116,4 @@ Planejamento estratégico em Tecnologia e Operações não é um luxo, é uma ne
 Times que planejam com clareza, alinham com o negócio e medem o impacto das suas ações estão melhor preparados para navegar em cenários de mudança constante e exigências crescentes.
 
 ---
-:lock: 2025 - Todos os direitos autorais reservados à Alan Fernandes - pm.alfernandes@gmail.com
+:lock: 2025 - Todos os direitos autorais reservados à Alan Fernandes - asf.techmanager@gmail.com
