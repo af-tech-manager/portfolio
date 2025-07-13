@@ -64,4 +64,4 @@ Um Design System bem implementado escala mais do que design ele escala decisões
 Para Tech Managers, Product Owners e líderes de engenharia, apostar nessa estratégia é um passo importante rumo à maturidade digital e excelência operacional.
 
 ---
-:lock: 2025 - Todos os direitos autorais reservados à Alan Fernandes - pm.alfernandes@gmail.com
+:lock: 2025 - Todos os direitos autorais reservados à Alan Fernandes - asf.techmanager@gmail.com
