@@ -70,4 +70,4 @@ A atuação do QA deve ser colaborativa e **preventiva, não reativa**. Times de
 Investir em QA é investir em **confiança, inovação e satisfação do cliente**. Ao adotar boas práticas de qualidade de software, as empresas reduzem riscos, aumentam produtividade e entregam valor com mais consistência.
 
 ---
-:lock: 2025 - Todos os direitos autorais reservados à Alan Fernandes - pm.alfernandes@gmail.com
+:lock: 2025 - Todos os direitos autorais reservados à Alan Fernandes - asf.techmanager@gmail.com
