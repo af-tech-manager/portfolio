@@ -109,4 +109,4 @@ Padrões de código e revisões bem feitas não são burocracia são pilares de 
 Quando essas práticas são incorporadas à cultura da equipe, os benefícios se multiplicam: menos bugs, mais previsibilidade e sistemas sustentáveis a longo prazo.
 
 ---
-:lock: 2025 - Todos os direitos autorais reservados à Alan Fernandes - pm.alfernandes@gmail.com
+:lock: 2025 - Todos os direitos autorais reservados à Alan Fernandes - asf.techmanager@gmail.com
