@@ -112,4 +112,4 @@ O Roadmap Técnico Anual não é um documento fixo, mas um **instrumento vivo** 
 Quando bem estruturado, o roadmap transforma a operação de tecnologia em uma **máquina estratégica de entrega de valor**.
 
 ---
-:lock: 2025 - Todos os direitos autorais reservados à Alan Fernandes - pm.alfernandes@gmail.com
+:lock: 2025 - Todos os direitos autorais reservados à Alan Fernandes - asf.techmanager@gmail.com
