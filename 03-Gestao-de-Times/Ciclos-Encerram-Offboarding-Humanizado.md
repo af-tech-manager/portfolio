@@ -57,4 +57,4 @@ Quando bem conduzido, ele se transforma em oportunidade de reconhecimento, apren
 Empresas que compreendem o valor dos ciclos sabem que as pessoas **não deixam a empresa elas deixam experiências**. E essas experiências começam e terminam com cuidado.
 
 ---
-:lock: 2025 - Todos os direitos autorais reservados à Alan Fernandes - pm.alfernandes@gmail.com
+:lock: 2025 - Todos os direitos autorais reservados à Alan Fernandes - asf.techmanager@gmail.com
