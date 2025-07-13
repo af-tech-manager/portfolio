@@ -110,4 +110,4 @@ Planos de carreira bem definidos são um pilar de qualquer time técnico de alta
 Mais do que promoções, esses planos devem incentivar crescimento real e contínuo, com base em entregas, maturidade e impacto.
 
 ---
-:lock: 2025 - Todos os direitos autorais reservados à Alan Fernandes - pm.alfernandes@gmail.com
+:lock: 2025 - Todos os direitos autorais reservados à Alan Fernandes - asf.techmanager@gmail.com
