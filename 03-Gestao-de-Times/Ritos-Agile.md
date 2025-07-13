@@ -133,5 +133,5 @@ Os rituais ágeis são o ritmo de funcionamento da equipe. Quando bem conduzidos
 A maturidade do time vem com a prática, e a prática melhora com reflexão por isso, ritualizar é evoluir.
 
 ---
-:lock: 2025 - Todos os direitos autorais reservados à Alan Fernandes - pm.alfernandes@gmail.com
+:lock: 2025 - Todos os direitos autorais reservados à Alan Fernandes - asf.techmanager@gmail.com
 
