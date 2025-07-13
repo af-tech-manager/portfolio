@@ -145,4 +145,4 @@ Mapear ambientes é o primeiro passo para uma gestão de infraestrutura moderna,
 Sem esse mapeamento, não há controle sobre riscos, custos ou impactos técnicos. Com ele, a organização pode crescer com confiança, planejando upgrades, automações e migrações com muito mais previsibilidade.
 
 ---
-:lock: 2025 - Todos os direitos autorais reservados à Alan Fernandes - pm.alfernandes@gmail.com
+:lock: 2025 - Todos os direitos autorais reservados à Alan Fernandes - asf.techmanager@gmail.com
