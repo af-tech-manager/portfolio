@@ -72,5 +72,5 @@ Perfil no LinkedIn: https://www.linkedin.com/in/alfernanandes/
 [MIT - License](https://github.com/af-tech-manager/portfolio?tab=License-1-ov-file)
 
 ---
-:lock: 2025 - Todos os direitos autorais reservados à Alan Fernandes - pm.alfernandes@gmail.com
+:lock: 2025 - Todos os direitos autorais reservados à Alan Fernandes - asf.techmanager@gmail.com
 
