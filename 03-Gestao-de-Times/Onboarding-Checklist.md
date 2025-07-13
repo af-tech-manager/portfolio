@@ -136,4 +136,4 @@ Um bom onboarding é o primeiro passo para construir um time coeso e de alta per
 Ao transformar o onboarding em um processo estratégico, as empresas reduzem o tempo de ramp-up, fortalecem a cultura e aumentam a entrega de valor.
 
 ---
-:lock: 2025 - Todos os direitos autorais reservados à Alan Fernandes - pm.alfernandes@gmail.com
+:lock: 2025 - Todos os direitos autorais reservados à Alan Fernandes - asf.techmanager@gmail.com
