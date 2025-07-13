@@ -103,4 +103,4 @@ Avaliar novas tecnologias com método é essencial para garantir que as escolhas
 Tecnologia não deve ser só uma escolha técnica, ela deve servir ao negócio.
 
 ---
-:lock: 2025 - Todos os direitos autorais reservados à Alan Fernandes - pm.alfernandes@gmail.com
+:lock: 2025 - Todos os direitos autorais reservados à Alan Fernandes - asf.techmanager@gmail.com
