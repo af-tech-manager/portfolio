@@ -126,4 +126,4 @@ Dashboards DevOps são muito mais do que ferramentas visuais são catalisadores 
 Se bem construídos, eles ajudam a criar uma cultura de transparência, aprendizado e excelência operacional.
 
 ---
-:lock: 2025 - Todos os direitos autorais reservados à Alan Fernandes - pm.alfernandes@gmail.com
+:lock: 2025 - Todos os direitos autorais reservados à Alan Fernandes - asf.techmanager@gmail.com
