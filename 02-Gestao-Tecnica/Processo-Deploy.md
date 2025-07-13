@@ -120,4 +120,4 @@ O deploy não deve ser um momento de tensão, mas sim uma etapa controlada e pre
 Ter um processo de deploy documentado, validado e com checklist claro é um diferencial competitivo que reduz riscos, aumenta a estabilidade e melhora a imagem do time técnico diante do negócio.
 
 ---
-:lock: 2025 - Todos os direitos autorais reservados à Alan Fernandes - pm.alfernandes@gmail.com
+:lock: 2025 - Todos os direitos autorais reservados à Alan Fernandes - asf.techmanager@gmail.com
