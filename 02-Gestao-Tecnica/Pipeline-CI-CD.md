@@ -65,4 +65,4 @@ Pipelines CI/CD são a coluna vertebral da engenharia moderna de software. Com e
 Quando bem configurado, o pipeline se torna um aliado estratégico para o negócio.
 
 ---
-:lock: 2025 - Todos os direitos autorais reservados à Alan Fernandes - pm.alfernandes@gmail.com
+:lock: 2025 - Todos os direitos autorais reservados à Alan Fernandes - asf.techmanager@gmail.com
