@@ -70,4 +70,4 @@ O Manifesto Ágil não é só para devs é para toda a cadeia de tecnologia. É 
 Se o seu time ainda não se identifica com isso, talvez seja hora de revisar o propósito antes do processo.
 
 ---
-:lock: 2025 - Todos os direitos autorais reservados à Alan Fernandes - pm.alfernandes@gmail.com
+:lock: 2025 - Todos os direitos autorais reservados à Alan Fernandes - asf.techmanager@gmail.com
