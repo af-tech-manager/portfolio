@@ -123,4 +123,4 @@ A Inteligência Artificial é hoje uma aliada estratégica da engenharia de soft
 Mais do que modismo, IA no desenvolvimento é uma revolução prática e acessível.
 
 ---
-:lock: 2025 - Todos os direitos autorais reservados à Alan Fernandes - pm.alfernandes@gmail.com
+:lock: 2025 - Todos os direitos autorais reservados à Alan Fernandes - asf.techmanager@gmail.com
