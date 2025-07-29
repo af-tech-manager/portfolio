@@ -47,9 +47,9 @@ A escolha da linguagem de programação impacta diretamente na arquitetura adota
 Aplicar boas práticas de engenharia de software é essencial para garantir código manutenível e sustentável:
 
 - **SOLID** (Single Responsibility, Open/Closed, Liskov, Interface Segregation, Dependency Inversion)
-- **KISS** (Keep It Simple, Stupid)
-- **DRY** (Don't Repeat Yourself)
-- **YAGNI** (You Aren’t Gonna Need It)
+- **KISS** (Keep It Simple, Stupid) é um princípio de design que enfatiza a simplicidade e a clareza em vez da complexidade
+- **DRY** (Don't Repeat Yourself) Este princípio de programação enfatiza a importância de evitar a duplicação de código ou conhecimento em um sistema, buscando uma representação única e não ambígua para cada conceito
+- **YAGNI** (You Aren’t Gonna Need It) É um princípio do desenvolvimento de software que incentiva os programadores a não adicionar funcionalidades ao código até que sejam realmente necessárias, evitando complexidade desnecessária e desperdício de esforço
 - **Clean Code**: Escrita de código limpo, legível e de fácil manutenção.
 
 ---
