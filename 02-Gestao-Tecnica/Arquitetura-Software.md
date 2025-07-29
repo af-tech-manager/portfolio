@@ -59,29 +59,48 @@ Aplicar boas práticas de engenharia de software é essencial para garantir cód
 Padrões são soluções reutilizáveis para problemas recorrentes no desenvolvimento de software. São divididos em categorias:
 
 - **Criação**
-  - **Singleton:** Garante que uma classe tenha apenas uma instância e fornece um ponto global de acesso a ela. /
+  - **Singleton:** Garante que uma classe tenha apenas uma instância e fornece um ponto global de acesso a ela. 
     
-    ✅ Exemplo comum: Classes de configuração, log, conexão com banco de dados. /
+    ✅ Exemplo comum: Classes de configuração, log, conexão com banco de dados. 
   
 
-  - **Factory Method:** Define uma interface para criar um objeto, mas permite que as subclasses decidam qual classe instanciar. /
+  - **Factory Method:** Define uma interface para criar um objeto, mas permite que as subclasses decidam qual classe instanciar.
     
-    ✅ Exemplo comum: Criação de diferentes tipos de documentos ou conexões, dependendo do contexto. / 
+    ✅ Exemplo comum: Criação de diferentes tipos de documentos ou conexões, dependendo do contexto. 
   
 
-  - **Builder:** Separa a construção de um objeto complexo da sua representação, permitindo construir diferentes representações com o mesmo processo. /
+  - **Builder:** Separa a construção de um objeto complexo da sua representação, permitindo construir diferentes representações com o mesmo processo. 
     
-    ✅ Exemplo comum: Montagem de objetos com muitos parâmetros opcionais (ex: carros, formulários). /
+    ✅ Exemplo comum: Montagem de objetos com muitos parâmetros opcionais (ex: carros, formulários). 
 
 - **Estruturais**
-  - Adapter
-  - Composite
-  - Facade
+  - **Adapter:** Permite que classes com interfaces incompatíveis trabalhem juntas, adaptando uma interface à esperada pelo cliente.
+
+    ✅ Exemplo comum: Adaptar uma API legada para ser usada em uma nova aplicação.
+
+  - **Composite:** Permite tratar objetos individuais e composições de objetos de forma uniforme.
+
+     ✅ Exemplo comum: Estruturas de árvore como menus, sistemas de arquivos.
+
+  - **Facade:** Fornece uma interface mais simples e unificada para um conjunto de interfaces em um subsistema.
+
+    ✅ Exemplo comum: API única para um sistema complexo (ex: sistema bancário, que internamente chama vários módulos).
+
+
 
 - **Comportamentais**
-  - Observer
-  - Strategy
-  - Command
+  - **Observer:** Define uma dependência de um-para-muitos entre objetos, de modo que quando um objeto muda de estado, seus dependentes são notificados automaticamente.
+
+    ✅ Exemplo comum: Notificações, assinaturas de eventos, interfaces rea
+    
+  - **Strategy: **Define uma família de algoritmos, encapsula cada um e os torna intercambiáveis. O algoritmo pode ser alterado em tempo de execução.
+
+    ✅ Exemplo comum: Métodos de pagamento, ordenações ou filtros personalizados.
+    
+  - **Command:** Encapsula uma solicitação como um objeto, permitindo parametrizar clientes com diferentes comandos, enfileirar ou registrar solicitações.
+
+    ✅ Exemplo comum: Ações em um sistema com "desfazer/refazer", botões que executam comandos diversos.
+
 
 > **Nota:** Utilize padrões com moderação. O excesso pode gerar complexidade desnecessária.
 
@@ -97,11 +116,107 @@ Responsável pela interface com o usuário (ex: front-end web/mobile).
 #### 🔸 2. Camada de Aplicação
 Contém a lógica de orquestração de processos e fluxos da aplicação.
 
-#### 🔸 3. Camada de Domínio (ou Negócio)
+#### 🔸 3. Camada de Domínio ou (Negócio)
 Inclui as regras de negócio, entidades, serviços de domínio e validadores.
 
 #### 🔸 4. Camada de Infraestrutura
 Gerencia persistência de dados, integrações com APIs externas, serviços de mensageria etc.
+
+---
+## 🧱 Tipos de Arquitetura
+
+A escolha da arquitetura define a estrutura organizacional do sistema e influencia diretamente sua escalabilidade, manutenibilidade e desempenho. Abaixo, são apresentados os principais tipos arquiteturais e técnicas complementares utilizadas na construção de sistemas modernos.
+
+---
+
+### 🧩 Microserviços
+
+#### 📌 Definição
+Arquitetura onde a aplicação é dividida em **pequenos serviços independentes**, que se comunicam entre si via APIs ou mensagens. Cada serviço possui seu **próprio ciclo de vida**, banco de dados e lógica de negócio.
+
+#### 🛠️ Tecnologias Associadas
+- Docker / Kubernetes (orquestração)
+- Spring Boot, Quarkus, Micronaut (Java)
+- .NET Core / ASP.NET
+- Node.js + Express
+- API Gateway (Kong, Zuul, NGINX)
+- Service Mesh (Istio, Linkerd)
+
+---
+
+### 📡 Arquitetura Orientada a Eventos (EDA)
+
+#### 📌 Definição
+Modelo baseado na **produção, detecção e reação a eventos**. Os componentes do sistema reagem a eventos de forma assíncrona, desacoplando produtores e consumidores.
+
+#### 🛠️ Tecnologias Associadas
+- Apache Kafka
+- RabbitMQ
+- Amazon EventBridge / SNS / SQS
+- Redis Streams
+- Axon Framework (Java)
+- NATS, Pulsar
+
+---
+
+### 🧱 Arquitetura Monolítica
+
+#### 📌 Definição
+A aplicação é construída como **uma única unidade indivisível**, com todas as funcionalidades integradas num mesmo processo e banco de dados.
+
+#### 🛠️ Tecnologias Associadas
+- Laravel, Django, Ruby on Rails
+- Spring MVC
+- ASP.NET MVC
+- Aplicações tradicionais com Java EE
+- Bancos de dados relacionais (MySQL, PostgreSQL, SQL Server)
+
+> Ideal para sistemas simples ou em fase inicial de validação.
+
+---
+
+### 📨 Mensageria
+
+#### 📌 Definição
+Técnica para **comunicação assíncrona entre serviços** usando filas e tópicos de mensagens. Permite desacoplamento e maior tolerância a falhas.
+
+#### 🛠️ Tecnologias Associadas
+- RabbitMQ
+- Apache Kafka
+- Amazon SQS
+- Azure Service Bus
+- ActiveMQ
+- MQTT (IoT)
+
+---
+
+### ⚡ Técnica de Cache
+
+#### 📌 Definição
+Armazenamento temporário de dados para **reduzir a latência e carga de leitura em sistemas**. Utilizado para acelerar respostas de APIs, evitar repetição de cálculos ou consultas.
+
+#### 🛠️ Tecnologias Associadas
+- Redis
+- Memcached
+- Varnish
+- CDN (Cloudflare, Akamai)
+- Cache-Control / ETag (HTTP)
+
+---
+
+### ⚖️ Load Balancer (Balanceamento de Carga)
+
+#### 📌 Definição
+Técnica que distribui **automaticamente as requisições entre múltiplas instâncias de servidores** para garantir disponibilidade, escalabilidade e performance.
+
+#### 🛠️ Tecnologias Associadas
+- NGINX / HAProxy
+- AWS Elastic Load Balancing (ELB)
+- Azure Load Balancer
+- Google Cloud Load Balancer
+- Traefik
+- F5 BIG-IP
+
 
 ---
 
