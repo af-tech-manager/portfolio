@@ -60,18 +60,18 @@ Padrões são soluções reutilizáveis para problemas recorrentes no desenvolvi
 
 - **Criação**
   - Singleton /
-    Garante que uma classe tenha apenas uma instância e fornece um ponto global de acesso a ela.
-    ✅ Exemplo comum: Classes de configuração, log, conexão com banco de dados.
-
+    Garante que uma classe tenha apenas uma instância e fornece um ponto global de acesso a ela. /
+    ✅ Exemplo comum: Classes de configuração, log, conexão com banco de dados. /
+  /
 
   - Factory Method / 
-  Define uma interface para criar um objeto, mas permite que as subclasses decidam qual classe instanciar. / 
-  ✅ Exemplo comum: Criação de diferentes tipos de documentos ou conexões, dependendo do contexto. / 
+    Define uma interface para criar um objeto, mas permite que as subclasses decidam qual classe instanciar. / 
+    ✅ Exemplo comum: Criação de diferentes tipos de documentos ou conexões, dependendo do contexto. / 
   
 
   - Builder /
-  Separa a construção de um objeto complexo da sua representação, permitindo construir diferentes representações com o mesmo processo. / 
-  ✅ Exemplo comum: Montagem de objetos com muitos parâmetros opcionais (ex: carros, formulários). /
+    Separa a construção de um objeto complexo da sua representação, permitindo construir diferentes representações com o mesmo processo. / 
+    ✅ Exemplo comum: Montagem de objetos com muitos parâmetros opcionais (ex: carros, formulários). /
 
 - **Estruturais**
   - Adapter
